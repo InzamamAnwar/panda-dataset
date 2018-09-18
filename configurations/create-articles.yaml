@@ -1,0 +1,4 @@
+outputFolderPath: C:\Users\drzah\Desktop\newspaper\newspaper-project\artifacts\articles
+outputType: YAML
+inputFolders:
+  - C:\Users\drzah\Desktop\newspaper\newspaper-project\artifacts\source-code

@@ -1,0 +1,7 @@
+outputFolder: C:\Users\drzah\Desktop\newspaper\newspaper-project\artifacts\articles-with-features
+inputFolders:
+  - C:\Users\drzah\Desktop\newspaper\newspaper-project\artifacts\articles
+outputType: YAML
+features:
+  - CountWords
+  - CountCharacters
