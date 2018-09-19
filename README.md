@@ -1,5 +1,5 @@
-# akhbar-dataset
-Dataset of Pakistani Newspapers
+# panda-dataset
+### Pakistani News Dataset
 
 ### Notes
 - Clone repo
