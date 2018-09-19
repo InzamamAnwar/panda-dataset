@@ -198,7 +198,8 @@ class Publisher(ABC):
         try:
             response = getattr(self, elementName)(articleSourceFilename, pageSoup)
         except:
-            print ("Error parsing " + elementName + "(...) of " + articleSourceFilename)
+            # print ("Error parsing " + elementName + "(...) of " + articleSourceFilename)
+            print ("Error parsing " + elementName)
         return response
 
     @abstractmethod

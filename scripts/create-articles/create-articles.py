@@ -36,14 +36,14 @@ configFilePath = sys.argv[1]
 publisher = None
 folderPath = None
 outputTypeString = None
-inputFolders = []
+inputSources = []
 
 print ("Loading config file: " + configFilePath)
 # Extract config data from config file
 if os.path.exists(configFilePath):
     config = yaml.load(open(configFilePath))
 
-    params = ["outputFolderPath", "outputType", "inputFolders"]
+    params = ["outputFolderPath", "outputType", "inputSources"]
     # Check for elements in the config file
     for param in params:
         if param not in config:
@@ -52,7 +52,7 @@ if os.path.exists(configFilePath):
 
     outputFolderPath = config["outputFolderPath"]
     outputTypeString = config["outputType"]
-    inputFolders = config["inputFolders"]
+    inputSources = config["inputSources"]
 
 else:
     print ("config file does not exist")
@@ -76,57 +76,56 @@ File filtered on 3 parameters
 - must be larger than 3KB in size
 - cannot have amp as a folder in its path
 '''
-articleSourceFiles = []
-for inputFolder in inputFolders:
+
+globalID = 1
+for inputSource in inputSources:
+
+    publisherName = inputSource['publisher']
+    inputFolder = inputSource['folder']
+
+    articleSourceFiles = []
     for filename in glob.iglob(inputFolder + '/**/*.html', recursive=True):
         if "/amp/" not in filename and "\\amp\\" not in filename:
             if os.path.getsize(filename) > 3 * 1024:
                 articleSourceFiles.append(filename)
-'''
-Logic:
-For each file:
-    get the file contents
-    get publisher name
-    create article object
-    log errors and warnings
-    save article object in output folder in yaml/json format
-'''
+    '''
+    Logic:
+    For each file:
+        get the file contents
+        get publisher name
+        create article object
+        log errors and warnings
+        save article object in output folder in yaml/json format
+    '''
 
+    # TODO: only get request for now, otherwise update config file to include post request and post data
+    for articleSourceFile in articleSourceFiles:
+        print ("\nworking on: " + articleSourceFile)
+        startTime = time.time()
 
-# TODO: only get request for now, otherwise update config file to include post request and post data
-for articleSourceFile in articleSourceFiles:
-    print ("working on: " + articleSourceFile)
-    startTime = time.time()
+        if os.path.exists(articleSourceFile):
+            articleSourceCode = open(articleSourceFile,"r").read()
 
-    globalID = 1
-    if os.path.exists(articleSourceFile):
-        articleSourceCode = open(articleSourceFile,"r").read()
+            # articleName = articleDict["articleName"]
+            # articleUrl = articleDict["articleUrl"]
+            # publisherName = articleDict["publisher"]
+            # articleSourceCode = articleDict["sourceCode"]
+            # timeDownloaded = articleDict["timeDownloaded"] # currently not being used
 
-        # articleName = articleDict["articleName"]
-        # articleUrl = articleDict["articleUrl"]
-        # publisherName = articleDict["publisher"]
-        # articleSourceCode = articleDict["sourceCode"]
-        # timeDownloaded = articleDict["timeDownloaded"] # currently not being used
+            # Dynamically load the right publisher
+            publisherModule = dynamicImport(publisherName)
+            if publisherModule is None:
+                print ("Error: Publisher class '" + publisherName + "' not found" )
+                continue
+            publisherClass = getattr(publisherModule, publisherName)()
 
-        publisherName = "TheNews" # TODO: find name of publisher based on folder name
+            article = publisherClass.createArticleObject(globalID = str(globalID), articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
 
-        # Dynamically load the right publisher
-        publisherModule = dynamicImport(publisherName)
-        if publisherModule is None:
-            print ("Error: Publisher class '" + publisherName + "' not found" )
-            continue
-        publisherClass = getattr(publisherModule, publisherName)()
-
-        article = publisherClass.createArticleObject(globalID = str(globalID), articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
-
-        print ("path: " + outputFolderPath)
-
-        # Save article to disk
-        if article is not None:
-            article.save(folderPath = outputFolderPath, filename = article.globalID, outputType = outputType)
-
-        endTime = time.time()
-        timeTaken = endTime - startTime
-        globalID += 1
-        print ("file saved. Time taken: " + str("%.2f" % timeTaken))
-        # pdb.set_trace()
+            # # Save article to disk
+            # if article is not None:
+            #     article.save(folderPath = outputFolderPath, filename = article.globalID, outputType = outputType)
+            #
+            # endTime = time.time()
+            # timeTaken = endTime - startTime
+            # globalID += 1
+            # print ("file saved. Time taken: " + str("%.2f" % timeTaken))

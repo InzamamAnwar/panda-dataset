@@ -1,4 +1,9 @@
 outputFolderPath: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/articles
 outputType: YAML
-inputFolders:
-  - /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code
+inputSources:
+  - publisher: TheNews
+    folder: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews
+  - publisher: Dawn
+    folder: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn
+  - publisher: Geo
+    folder: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo
