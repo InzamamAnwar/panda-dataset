@@ -70,55 +70,63 @@ elif outputTypeString.lower() == "json":
     outputType = common.OutputType.JSON
 
 # Get a list of article files
+'''
+File filtered on 3 parameters
+- must end with .html
+- must be larger than 3KB in size
+- cannot have amp as a folder in its path
+'''
 articleSourceFiles = []
 for inputFolder in inputFolders:
-    for filename in glob.iglob(inputFolder + '/**/*.yaml', recursive=True):
-        articleSourceFiles.append(filename)
-    for filename in glob.iglob(inputFolder + '/**/*.json', recursive=True):
-        articleSourceFiles.append(filename)
+    for filename in glob.iglob(inputFolder + '/**/*.html', recursive=True):
+        if "/amp/" not in filename and "\\amp\\" not in filename:
+            if os.path.getsize(filename) > 3 * 1024:
+                articleSourceFiles.append(filename)
+'''
+Logic:
+For each file:
+    get the file contents
+    get publisher name
+    create article object
+    log errors and warnings
+    save article object in output folder in yaml/json format
+'''
+
 
 # TODO: only get request for now, otherwise update config file to include post request and post data
 for articleSourceFile in articleSourceFiles:
     print ("working on: " + articleSourceFile)
     startTime = time.time()
-    
+
+    globalID = 1
     if os.path.exists(articleSourceFile):
-        articleDict = None
-        if outputType is common.OutputType.YAML:
-            articleDict = yaml.load(open(articleSourceFile))
-        if outputType is common.OutputType.JSON:
-            with open(articleSourceFile) as jsonFile:
-                articleDict = json.load(jsonFile)
-    
-        if articleDict is not None:
-            # TODO: Refactor, copy the parameter checking logic
-            params = ["articleName", "articleUrl", "publisher", "sourceCode", "timeDownloaded"]
-            # Check for elements in the config file
-            for param in params:
-                if param not in articleDict:
-                    print("Error: " + param + " missing in source file")
-            
-            articleName = articleDict["articleName"]
-            articleUrl = articleDict["articleUrl"]
-            publisherName = articleDict["publisher"]
-            articleSourceCode = articleDict["sourceCode"]
-            timeDownloaded = articleDict["timeDownloaded"] # currently not being used
-            
-            # Dynamically load the right publisher
-            publisherModule = dynamicImport(publisherName)
-            if publisherModule is None:
-                print ("Error: Publisher class '" + publisherName + "' not found" )
-                continue
-            publisherClass = getattr(publisherModule, publisherName)()
-        
-            article = publisherClass.createArticleObject(articleName = articleName, articleUrl = articleUrl, articleSourceCode = articleSourceCode)
-        
-            print ("path: " + outputFolderPath)
-        
-            # Save article to disk
-            if article is not None:
-                article.save(folderPath = outputFolderPath, filename = articleName, outputType = outputType)
-        
-            endTime = time.time()
-            timeTaken = endTime - startTime
-            print ("file saved. Time taken: " + str("%.2f" % timeTaken))
+        articleSourceCode = open(articleSourceFile,"r").read()
+
+        # articleName = articleDict["articleName"]
+        # articleUrl = articleDict["articleUrl"]
+        # publisherName = articleDict["publisher"]
+        # articleSourceCode = articleDict["sourceCode"]
+        # timeDownloaded = articleDict["timeDownloaded"] # currently not being used
+
+        publisherName = "TheNews" # TODO: find name of publisher based on folder name
+
+        # Dynamically load the right publisher
+        publisherModule = dynamicImport(publisherName)
+        if publisherModule is None:
+            print ("Error: Publisher class '" + publisherName + "' not found" )
+            continue
+        publisherClass = getattr(publisherModule, publisherName)()
+
+        article = publisherClass.createArticleObject(globalID = str(globalID), articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
+
+        print ("path: " + outputFolderPath)
+
+        # Save article to disk
+        if article is not None:
+            article.save(folderPath = outputFolderPath, filename = article.globalID, outputType = outputType)
+
+        endTime = time.time()
+        timeTaken = endTime - startTime
+        globalID += 1
+        print ("file saved. Time taken: " + str("%.2f" % timeTaken))
+        # pdb.set_trace()

@@ -18,7 +18,8 @@ import pdb
 # This ensures that everyone ends up with the same common objects
 
 class Article:
-    def __init__(self, name = None, publisher = None, url = None, localID = None, date = None, text = None, language = None, heading = None, summary = None, tags = None, authors = None):
+    def __init__(self, globalID = None, name = None, publisher = None, url = None, localID = None, date = None, text = None, language = None, heading = None, summary = None, tags = None, authors = None):
+        self.globalID = globalID
         self.name = name
         self.publisher = publisher
         self.url = url
@@ -32,7 +33,8 @@ class Article:
         self.authors = authors
 
     def __str__(self):
-        response = "name: " + str(self.name) + "\n" + \
+        response = "globalID: " + str(self.globalID) + "\n" + \
+        "name: " + str(self.name) + "\n" + \
         "publisher: " + str(self.publisher) + "\n" + \
         "url: " + str(self.url) + "\n" + \
         "localID: " + str(self.localID) + "\n" + \
@@ -59,7 +61,7 @@ class Article:
         return response
 
     def save(self, folderPath, filename, outputType):
-        
+
         # TODO: check output type before accessing dot value
         fileContents = None
         extension = ""
@@ -151,11 +153,11 @@ class Publisher(ABC):
     def __init__(self):
         super().__init__()
 
-    def createArticleObject(self, articleName, articleUrl, articleSourceCode):
+    def createArticleObject(self, globalID, articleSourceFilename, articleSourceCode):
 
         # Create page soup
         pageSoup = soup(articleSourceCode, 'html.parser')
-        
+
         # TODO: For tracability, we need to save the URL of the sourceFile
         # Idea: create a yaml of all sourceFiles
         """
@@ -166,72 +168,77 @@ class Publisher(ABC):
             - date: date-downloaded
         - source-code:
             - raw source code here
-            
+
         After implementing this structure, there is no need to extract the publisher's name
         from the file name, since that information is in the source file now.
         # TODO: Here
         """
-        
 
-        publisher = self.__parseElement("getPublisher", articleUrl, pageSoup)
-        localID = self.__parseElement("getArticleLocalID", articleUrl, pageSoup)
-        date = self.__parseElement("getArticleDate", articleUrl, pageSoup)
-        text = self.__parseElement("getArticleText", articleUrl, pageSoup)
-        language = self.__parseElement("getArticleLanguage", articleUrl, pageSoup)
-        heading = self.__parseElement("getArticleHeading", articleUrl, pageSoup)
-        summary = self.__parseElement("getArticleSummary", articleUrl, pageSoup)
-        tags = self.__parseElement("getArticleTags", articleUrl, pageSoup)
-        authors = self.__parseElement("getArticleAuthors", articleUrl, pageSoup)
+        name = self.__parseElement("getArticleName", articleSourceFilename, pageSoup)
+        publisher = self.__parseElement("getPublisher", articleSourceFilename, pageSoup)
+        url = self.__parseElement("getArticleUrl", articleSourceFilename, pageSoup)
+        localID = self.__parseElement("getArticleLocalID", articleSourceFilename, pageSoup)
+        date = self.__parseElement("getArticleDate", articleSourceFilename, pageSoup)
+        text = self.__parseElement("getArticleText", articleSourceFilename, pageSoup)
+        language = self.__parseElement("getArticleLanguage", articleSourceFilename, pageSoup)
+        heading = self.__parseElement("getArticleHeading", articleSourceFilename, pageSoup)
+        summary = self.__parseElement("getArticleSummary", articleSourceFilename, pageSoup)
+        tags = self.__parseElement("getArticleTags", articleSourceFilename, pageSoup)
+        authors = self.__parseElement("getArticleAuthors", articleSourceFilename, pageSoup)
 
-        article = Article(name = articleName, publisher = publisher, url = articleUrl, localID = localID, date = date, text = text, \
-                                 language = language, heading = heading, summary = summary, \
-                                 tags = tags, authors = authors)
+        article = Article(globalID = globalID, name = name, publisher = publisher, url = url, localID = localID, date = date, text = text, \
+                          language = language, heading = heading, summary = summary, \
+                          tags = tags, authors = authors)
         return article
 
-    def __parseElement(self, elementName, articleUrl, pageSoup):
+    def __parseElement(self, elementName, articleSourceFilename, pageSoup):
         # Call the derived methods to extract elements from the pageSoup
         # Enclose the logic in a try catch block and complain if the method fails
         response = None
         try:
-            response = getattr(self, elementName)(articleUrl, pageSoup)
+            response = getattr(self, elementName)(articleSourceFilename, pageSoup)
         except:
-            print ("Error parsing " + elementName + "(...) of " + articleUrl)
+            print ("Error parsing " + elementName + "(...) of " + articleSourceFilename)
         return response
 
     @abstractmethod
-    def getPublisher(self, articleUrl, pageSoup):
+    def getPublisher(self, articleSourceFilename, pageSoup):
         pass
 
     @abstractmethod
-    def getArticleLocalID(self, articleUrl, pageSoup):
+    def getArticleUrl(self, articleSourceFilename, pageSoup):
         pass
 
     @abstractmethod
-    def getArticleDate(self, articleUrl, pageSoup):
+    def getArticleLocalID(self, articleSourceFilename, pageSoup):
         pass
 
     @abstractmethod
-    def getArticleText(self, articleUrl, pageSoup):
+    def getArticleDate(self, articleSourceFilename, pageSoup):
         pass
 
     @abstractmethod
-    def getArticleLanguage(self, articleUrl, pageSoup):
+    def getArticleText(self, articleSourceFilename, pageSoup):
         pass
 
     @abstractmethod
-    def getArticleHeading(self, articleUrl, pageSoup):
+    def getArticleLanguage(self, articleSourceFilename, pageSoup):
         pass
 
     @abstractmethod
-    def getArticleSummary(self, articleUrl, pageSoup):
+    def getArticleHeading(self, articleSourceFilename, pageSoup):
         pass
 
     @abstractmethod
-    def getArticleTags(self, articleUrl, pageSoup):
+    def getArticleSummary(self, articleSourceFilename, pageSoup):
         pass
 
     @abstractmethod
-    def getArticleAuthors(self, articleUrl, pageSoup):
+    def getArticleTags(self, articleSourceFilename, pageSoup):
+        pass
+
+    @abstractmethod
+    def getArticleAuthors(self, articleSourceFilename, pageSoup):
         pass
 
 # TODO: Find a good home for this function
@@ -242,12 +249,12 @@ def loadDataset(inputFolders):
             articleFiles.append(filename)
         for filename in glob.iglob(inputFolder + '/**/*.json', recursive=True):
             articleFiles.append(filename)
-    
+
     # TODO: Treat ArticleWithFeatures as a first-class citizen
-    
+
     dataset = []
     for articleFile in articleFiles:
-    
+
         if os.path.exists(articleFile):
             fileDict = None
             if articleFile.endswith(".yaml"):
@@ -255,15 +262,15 @@ def loadDataset(inputFolders):
             if articleFile.endswith(".json"):
                 with open(articleFile) as jsonFile:
                     fileDict = json.load(jsonFile)
-    
+
             # Check if all Article and Feature elements are present
             if fileDict is not None:
                 dataset.append(fileDict)
-    
+
                 '''
                 articleDict = fileDict["article"]
                 featuresDict = fileDict["features"]
-                
+
                 # Load article elements
                 name = articleDict["name"]
                 publisher = articleDict["publisher"]
@@ -276,11 +283,11 @@ def loadDataset(inputFolders):
                 summary = articleDict["summary"]
                 tags = articleDict["tags"]
                 authors = articleDict["authors"]
-    
+
                 article = common.Article(name = name, publisher = publisher, url = url, localID = localID, \
                                   date = date, text = text, language = language, \
                                   heading = heading, summary = summary, tags = tags, \
                                   authors = authors)
-                
+
                 '''
     return dataset

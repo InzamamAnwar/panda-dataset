@@ -1,4 +1,4 @@
-outputFolderPath: C:\Users\drzah\Desktop\newspaper\newspaper-project\artifacts\articles
+outputFolderPath: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/articles
 outputType: YAML
 inputFolders:
-  - C:\Users\drzah\Desktop\newspaper\newspaper-project\artifacts\source-code
+  - /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code
