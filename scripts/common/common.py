@@ -11,6 +11,7 @@ import json
 import os
 import glob
 import pdb
+from datetime import datetime
 
 # TODO: Is common really common? Keep the truly common parts and move everything else to stage level
 
@@ -175,6 +176,21 @@ class Publisher(ABC):
         response = None
         try:
             response = getattr(self, elementName)(articleSourceFilename, pageSoup)
+
+            # Specific assertions
+            if elementName is "getArticleUrl":
+                if response is None or not response.strip().startswith("http"):
+                    print ("Error: Url is not valid: " + str(response))
+
+            if elementName is "getArticleText":
+                if response is None or len(response.strip()) < 10:
+                    print ("Error: Article text not captured properly: " + str(response))
+
+            if elementName is "getArticleDate":
+                if not isinstance(response, datetime):
+                    print ("Error: Invalid time type: " + str(response))
+
+
         except:
             # print ("Error parsing " + elementName + "(...) of " + articleSourceFilename)
             print ("Error parsing " + elementName)

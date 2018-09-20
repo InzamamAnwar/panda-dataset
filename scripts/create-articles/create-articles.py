@@ -121,9 +121,11 @@ for inputSource in inputSources:
                 continue
             publisherClass = getattr(publisherModule, publisherName)()
 
-            article = publisherClass.createArticleObject(globalID = str(globalID), articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
+            article = publisherClass.createArticleObject(globalID = globalID, articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
 
             yamlOutput += "---\n" + yaml.dump(article.__dict__, default_flow_style = False) + "\n"
+
+            globalID += 1
 
             # # Save article to disk
             # if article is not None:
