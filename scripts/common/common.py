@@ -18,12 +18,10 @@ import pdb
 # This ensures that everyone ends up with the same common objects
 
 class Article:
-    def __init__(self, globalID = None, name = None, publisher = None, url = None, localID = None, date = None, text = None, language = None, heading = None, summary = None, tags = None, authors = None):
+    def __init__(self, globalID = None, publisher = None, url = None, date = None, text = None, language = None, heading = None, summary = None, tags = None, authors = None):
         self.globalID = globalID
-        self.name = name
         self.publisher = publisher
         self.url = url
-        self.localID = localID
         self.date = date
         self.text = text
         self.language = language
@@ -34,10 +32,8 @@ class Article:
 
     def __str__(self):
         response = "globalID: " + str(self.globalID) + "\n" + \
-        "name: " + str(self.name) + "\n" + \
         "publisher: " + str(self.publisher) + "\n" + \
         "url: " + str(self.url) + "\n" + \
-        "localID: " + str(self.localID) + "\n" + \
         "date: " + str(self.date) + "\n" + \
         "text: " + str(self.text) + "\n" + \
         "language: " + str(self.language) + "\n" + \
@@ -158,26 +154,8 @@ class Publisher(ABC):
         # Create page soup
         pageSoup = soup(articleSourceCode, 'html.parser')
 
-        # TODO: For tracability, we need to save the URL of the sourceFile
-        # Idea: create a yaml of all sourceFiles
-        """
-        # Structure
-        - meta:
-            - url: url name
-            - publisher: publisher name
-            - date: date-downloaded
-        - source-code:
-            - raw source code here
-
-        After implementing this structure, there is no need to extract the publisher's name
-        from the file name, since that information is in the source file now.
-        # TODO: Here
-        """
-
-        name = self.__parseElement("getArticleName", articleSourceFilename, pageSoup)
         publisher = self.__parseElement("getPublisher", articleSourceFilename, pageSoup)
         url = self.__parseElement("getArticleUrl", articleSourceFilename, pageSoup)
-        localID = self.__parseElement("getArticleLocalID", articleSourceFilename, pageSoup)
         date = self.__parseElement("getArticleDate", articleSourceFilename, pageSoup)
         text = self.__parseElement("getArticleText", articleSourceFilename, pageSoup)
         language = self.__parseElement("getArticleLanguage", articleSourceFilename, pageSoup)
@@ -186,7 +164,7 @@ class Publisher(ABC):
         tags = self.__parseElement("getArticleTags", articleSourceFilename, pageSoup)
         authors = self.__parseElement("getArticleAuthors", articleSourceFilename, pageSoup)
 
-        article = Article(globalID = globalID, name = name, publisher = publisher, url = url, localID = localID, date = date, text = text, \
+        article = Article(globalID = globalID, publisher = publisher, url = url, date = date, text = text, \
                           language = language, heading = heading, summary = summary, \
                           tags = tags, authors = authors)
         return article
@@ -208,10 +186,6 @@ class Publisher(ABC):
 
     @abstractmethod
     def getArticleUrl(self, articleSourceFilename, pageSoup):
-        pass
-
-    @abstractmethod
-    def getArticleLocalID(self, articleSourceFilename, pageSoup):
         pass
 
     @abstractmethod
@@ -268,27 +242,4 @@ def loadDataset(inputFolders):
             if fileDict is not None:
                 dataset.append(fileDict)
 
-                '''
-                articleDict = fileDict["article"]
-                featuresDict = fileDict["features"]
-
-                # Load article elements
-                name = articleDict["name"]
-                publisher = articleDict["publisher"]
-                url = articleDict["url"]
-                localID = articleDict["localID"]
-                date = articleDict["date"]
-                text = articleDict["text"]
-                language = articleDict["language"]
-                heading = articleDict["heading"]
-                summary = articleDict["summary"]
-                tags = articleDict["tags"]
-                authors = articleDict["authors"]
-
-                article = common.Article(name = name, publisher = publisher, url = url, localID = localID, \
-                                  date = date, text = text, language = language, \
-                                  heading = heading, summary = summary, tags = tags, \
-                                  authors = authors)
-
-                '''
     return dataset
