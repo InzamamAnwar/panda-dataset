@@ -177,6 +177,11 @@ class Publisher(ABC):
         try:
             response = getattr(self, elementName)(articleSourceFilename, pageSoup)
 
+            # set date format
+            if elementName is "getArticleDate":
+                if isinstance(response, datetime):
+                    return str('%02d' % response.day) + "-" + str('%02d' % response.month) + "-" + str(response.year)
+
             # Specific assertions
             if elementName is "getArticleUrl":
                 if response is None or not response.strip().startswith("http"):

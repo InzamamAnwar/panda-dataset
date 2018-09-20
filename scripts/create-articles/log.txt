@@ -555,336 +555,541 @@ working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-c
 Error parsing getArticleUrl
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/97331-Trump-Sanders-ride-US-anti-establishment-tide-to-New-Hampshire-win.html
+Error: Url is not valid: None
+Error: Invalid time type: February 10, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/105712-Stats-back-Pakistan-to-avenge-Asia-Cup-defeat-against-Bangladesh.html
+Error: Url is not valid: None
+Error: Invalid time type: March 16, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360230-railways-officer-reluctant-to-work-under-sheikh-rasheed-sacked.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/104714-Shahbaz-Taseer-back-on-twitter-after-release.html
+Error: Url is not valid: None
+Error: Invalid time type: March 12, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/109598-US-Folk-singers-attend-Pakistan-Day-celebrations-in-Dallas.html
+Error: Url is not valid: None
+Error: Invalid time type: April 1, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/116902-KP-win-Pakistan-Cup.html
+Error: Url is not valid: None
+Error: Invalid time type: May 2, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/94429-Facebook-likely-to-become-publisher-of-everything-says-Prof-Craig-Duff.html
+Error: Url is not valid: None
+Error: Invalid time type: January 28, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/90313-Pakistani-appointed-UKs-Shadow-Minister-of-State.html
+Error: Url is not valid: None
+Error: Invalid time type: January 14, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360231-jui-f-chief-meets-zardari-seeks-ppps-support-for-presidential-election.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/4683-kanupp-defends-its-ambitions-rules-out-doomsday-scenario.html
+Error: Url is not valid: None
+Error: Invalid time type: May 25, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/113377-SRK-Fan-breaks-records-earns-50-crore-in-just-two-days.html
+Error: Url is not valid: None
+Error: Invalid time type: April 17, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/117943-Pakistani-bus-drivers-son-Sadiq-Khan-becomes-London-Mayor.html
+Error: Url is not valid: None
+Error: Invalid time type: May 7, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360222-shah-rukh-khan-speaks-out-against-gender-wage-disparity-in-bollywood.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360223-senate-passes-national-disaster-management-amendment-act-2017.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/105196-Sarfraz-Merchant-refuses-to-appear-before-FIA-on-March-15.html
+Error: Url is not valid: None
+Error: Invalid time type: March 14, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360233-afghanistan-win-1st-odi-against-ireland-by-29-runs.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360234-canadas-freeland-to-travel-to-washington-tuesday-for-nafta.html
+Error: Url is not valid: None
+Error: Invalid time type: August 28, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360227-guest-of-honour-status-for-pakistan-at-chinas-international-import-expo.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360225-senator-hidayat-ullah-khan-joins-pti.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360229-afghanistan-win-1st-odi-against-ireland-by-29-runs.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360221-aleem-khan-announces-to-donate-salary-as-minister-to-skmch.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/122967-Musharrafs-APML-holds-workers-convention-in-US.html
+Error: Url is not valid: None
+Error: Invalid time type: May 26, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/126577-Sadiq-Khan-disappointed-by-childhood-hero-Imrans-support-to-Zac.html
+Error: Url is not valid: None
+Error: Invalid time type: June 9, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360224-russia-says-afghanistan-talks-postponed.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/122966-Pakistani-traders-visit-Houston.html
+Error: Url is not valid: None
+Error: Invalid time type: May 26, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360228-millions-risk-malnutrition-as-co2-levels-climb-study.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/122635-Bill-tabled-in-US-Senate-to-block-300-million-aid-to-Pakistan.html
+Error: Url is not valid: None
+Error: Invalid time type: May 25, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360226-who-gave-shahid-afridi-famous-boom-boom-title.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/114329-US-based-Pakistani-kills-wife-in-Arlington.html
+Error: Url is not valid: None
+Error: Invalid time type: April 21, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/121860-Cancer-on-the-rise-among-children-in-underprivileged-areas-of-Pakistan.html
+Error: Url is not valid: None
+Error: Invalid time type: May 22, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/6285-army-public-school-tragedy-can-never-be-forgotten-coas.html
+Error: Url is not valid: None
+Error: Invalid time type: July 15, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/111683-Punjab-Woman-set-on-fire-in-Burewal.html
+Error: Url is not valid: None
+Error: Invalid time type: April 10, 2016
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/4515-pakistans-first-animated-film-3-bahadur-premieres-in-karachi.html
+Error: Url is not valid: None
+Error: Invalid time type: May 20, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360232-pakistan-beat-thailand-in-asian-games-baseball.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Environment.html
+Error: Url is not valid: None
+Error: Invalid time type: July 30, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/videos.html
+Error: Url is not valid: None
+Error: Invalid time type: June 22, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Arts.html
+Error: Url is not valid: None
+Error: Invalid time type: August 12, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Fashion.html
+Error: Url is not valid: None
+Error: Invalid time type: August 15, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/world.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/sports.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Books.html
+Error: Url is not valid: None
+Error: Invalid time type: June 7, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/opinion.html
+Error: Url is not valid: None
+Error: Invalid time type: November 23, 2017
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/sci-tech.html
+Error: Url is not valid: None
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/politics.html
+Error: Url is not valid: None
+Error: Invalid time type: August 12, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Life-style.html
+Error: Url is not valid: None
+Error: Invalid time type: July 11, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Wildlife.html
+Error: Url is not valid: None
+Error: Invalid time type: February 13, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/entertainment.html
+Error: Url is not valid: None
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/weird.html
+Error: Url is not valid: None
+Error: Invalid time type: July 29, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/health.html
+Error: Url is not valid: None
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/business.html
+Error: Url is not valid: None
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/national.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Movies.html
+Error: Url is not valid: None
+Error: Invalid time type: May 4, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Music.html
+Error: Url is not valid: None
+Error: Invalid time type: July 9, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/sponsor.html
+Error: Url is not valid: None
+Error: Invalid time type: February 15, 2017
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/world/2018-08-26.html
+Error: Url is not valid: None
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/world/2018-08-25.html
+Error: Url is not valid: None
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/national/2018-08-26.html
+Error: Url is not valid: None
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/national/2018-08-25.html
+Error: Url is not valid: None
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15916-increase-in-uf-gas-benchmark-challenged-in-ihc.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15903-na-123-faces-civic-problems-upsurge-in-crime.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15929-hanif-abbasi-claims-project-to-be-completed-as-per-schedule.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15921-family-of-three-mentally-disabled-children-needs-help.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15920-prolonged-power-outages-playing-on-nerves-of-pindiites.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15854-circular-debt-a-vicious-cycle-of-unpaid-bills.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15933-mutual-legal-assistance-law-to-help-block-terror-financing.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15938-govt-cant-change-constitution-sans-consensus.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15919-new-drug-pricing-policy-will-it-really-purge-the-system-of-discretion.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15936-2014-darkest-year-in-terms-of-polio-eradication.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360154-implementation-of-5pc-quota-for-minorities-in-pa-secretariat-jobs-sought.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15974-a-year-of-collective-insanity.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15942-political-parties-fear-military-courts-may-target-them.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15948-pak-afghan-mps-call-for-joint-efforts-to-curb-terrorism.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15972-the-power-of-the-pulpit.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360157-3-security-men-among-5-hurt-in-turbat-grenade-blast.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15853-oil-price-plunge-gives-pakistan-breathing-space.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15847-legal-experts-slam-sales-tax-increase-procedure.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15935-hanged-paf-man-was-close-aide-of-ttp-leader.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15891-apna-rozgar-scheme-gets-good-response.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360153-malik-asks-imran-to-form-body-to-probe-rts-failure.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360151-two-ppp-politicians-pa-s-ex-deputy-speaker-join-pti.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15894-dismal-performance-of-punjab-food-authority.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15877-promises-didnt-make-sindh-any-healthier-in-2014.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15898-faysal-all-praise-for-geo.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360155-pti-regime-to-follow-the-swedish-governance-model.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15937-senate-panel-directs-ministry-to-re-open-motorway-exit-to-new-airport.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15973-state-and-religion.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15887-establishment-of-military-courts-challenged.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360156-four-firs-lodged-over-drug-raid-gone-wrong.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15848-pakistan-afghanistan-to-start-talks-on-pta-today.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15975-a-capital-storm.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15915-land-record-couldnt-be-computerised-in-2014.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15949-army-act-not-constitution-being-amended-to-try-terrorists.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15939-names-of-heads-for-state-run-enterprises-finalised.html
+Error: Url is not valid: None
+Error: Invalid time type: January 1, 2015
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360152-ghani-to-keep-a-close-eye-on-water-board-sbca-kda-kmc.html
+Error: Url is not valid: None
+Error: Invalid time type: August 27, 2018
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/newspost.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/editorial.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/world.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/sports.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/opinion.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/top-story.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/karachi.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/lahore.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/islamabad.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/business.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/national.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/peshawar.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
 working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/opinion/index.html
+Error: Url is not valid: None
+Error: Invalid time type: August 26, 2018
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
-Crearting dataset...
 Done
