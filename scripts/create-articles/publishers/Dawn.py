@@ -36,7 +36,12 @@ class Dawn(common.Publisher):
         return "Dawn News"
 
     def getArticleUrl(self, filename, pageSoup):
-        return None
+        """
+            Filename is expected to be in the format "pagexxxxx.html"
+        """
+        id = filename.split('.html')[0].split('page')[1]
+        url = 'https://www.dawn.com/news/' + id
+        return url
 
     def getArticleLocalID(self, filename, pageSoup):
         return filename.split('/')[-1]
