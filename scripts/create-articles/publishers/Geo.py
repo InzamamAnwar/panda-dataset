@@ -7,6 +7,7 @@
 
 import common
 from datetime import datetime
+from bs4 import Comment
 
 
 def dateconvert(date_string):
@@ -29,7 +30,9 @@ class Geo(common.Publisher):
         return "Geo News"
 
     def getArticleUrl(self, filename, pageSoup):
-        return None
+        comment = pageSoup.findAll(string=lambda comment_text: isinstance(comment_text, Comment))
+        url = 'https://' + comment.split(' ')[3
+        return url
 
     def getArticleTags(self, filename, pageSoup):
         tag = []
