@@ -38,6 +38,8 @@ folderPath = None
 outputTypeString = None
 inputSources = []
 
+yamlOutput = ""
+
 print ("Loading config file: " + configFilePath)
 # Extract config data from config file
 if os.path.exists(configFilePath):
@@ -121,6 +123,8 @@ for inputSource in inputSources:
 
             article = publisherClass.createArticleObject(globalID = str(globalID), articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
 
+            yamlOutput += "---\n" + yaml.dump(article.__dict__, default_flow_style = False) + "\n"
+
             # # Save article to disk
             # if article is not None:
             #     article.save(folderPath = outputFolderPath, filename = article.globalID, outputType = outputType)
@@ -129,3 +133,10 @@ for inputSource in inputSources:
             # timeTaken = endTime - startTime
             # globalID += 1
             # print ("file saved. Time taken: " + str("%.2f" % timeTaken))
+
+print ("Crearting dataset...")
+fullPath = os.path.join(outputFolderPath, "dataset.yaml")
+outputFile = open(fullPath, 'w+')
+outputFile.write(yamlOutput)
+outputFile.close()
+print ("Done")
