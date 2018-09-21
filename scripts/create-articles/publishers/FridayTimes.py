@@ -76,7 +76,7 @@ class FridayTimes(common.Publisher):
         tags = text_handle[0].findAll()
 
         for tag in tags:
-            if tag.name in ['p', 'li', 'h2', 'h3', 'h4', 'h5']:
+            if tag.name in ['p', 'li', 'h2', 'h3', 'h4', 'h5', 'br']:
                 # Removing non-ASCII characters
                 text += re.sub(r'[^\x00-\x7F]+', ' ', tag.text)
                 text += ' '

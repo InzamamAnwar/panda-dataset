@@ -8,6 +8,7 @@
 import common
 from datetime import datetime
 from bs4 import Comment
+import re
 
 
 def dateconvert(date_string):
@@ -30,7 +31,7 @@ class Geo(common.Publisher):
         return "Geo News"
 
     def getArticleUrl(self, filename, pageSoup):
-        comment = pageSoup.findAll(string=lambda comment_text: isinstance(comment_text, Comment))
+        comment = pageSoup.find(string=lambda comment_text: isinstance(comment_text, Comment))
         url = 'https://' + comment.split(' ')[3]
         return url
 
@@ -48,16 +49,32 @@ class Geo(common.Publisher):
 
     def getArticleAuthors(self, filename, pageSoup):
         authors = []
-        author = pageSoup.findAll('span', {'class': 'by_author'})[0].text.strip()
-        if author == 'By':
-            authors.append('')
-            return authors
-        else:
-            authors.append(author)
-            return authors
+        """
+            Assuming that with 'meta' tag name there is two attributes with name "name"
+            and "content" in <head>
+            <meta name="twitter:creator" content="@Web Desk">
+        """
+        author_handle = pageSoup.findAll('meta', {'name': 'twitter:creator'})
+        author_handle = author_handle[0]
+        authors.append(author_handle['content'].replace('@', ''))
+        return authors
 
     def getArticleText(self, filename, pageSoup):
-        return pageSoup.find(class_='content-area').getText().strip()
+        text = ''
+
+        text_handle = pageSoup.findAll('div', {'class': 'content-area'})
+        tags = text_handle[0].findAll()
+
+        for tag in tags:
+            if tag.name in ['p', 'li', 'h2', 'h3', 'h4', 'h5', 'br']:
+                text += re.sub(r'[^\x00-\x7F]+', ' ', tag.text)
+                text += ' '
+        """
+            if text is not enclosed in any tags than we collect it all from following function
+        """
+        if text.isspace():
+            text = pageSoup.find(class_='content-area').getText().strip()
+        return text
 
     def getArticleLanguage(self, filename, pageSoup):
         return 'en'

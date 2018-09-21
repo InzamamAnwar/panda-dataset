@@ -106,7 +106,7 @@ for inputSource in inputSources:
         startTime = time.time()
 
         if os.path.exists(articleSourceFile):
-            articleSourceCode = open(articleSourceFile,"r").read()
+            articleSourceCode = open(articleSourceFile,"r", encoding='utf8').read()
 
             # articleName = articleDict["articleName"]
             # articleUrl = articleDict["articleUrl"]

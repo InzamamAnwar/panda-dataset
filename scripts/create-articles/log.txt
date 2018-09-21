@@ -1,888 +1,776 @@
-Loading config file: ../../configurations/create-articles.yaml
+Loading config file: E:\Python Projects\panda-dataset\configurations\create-articles.yaml
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/index1f8a.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\index.html
+Error parsing getArticleDate
+Error parsing getArticleAuthors
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\index1f8a.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleTags
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/index.html
-Error parsing getArticleDate
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/not_found.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\not_found.html
 Error parsing getArticleDate
 Error parsing getArticleTags
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289063/rangers-detain-two-imposters/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\124611\mamnoon-for-strong-ties-with-malaysia-sweden\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289064/fia-nab-must-cooperate-to-fight-white-collar-crime-pm/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\124612\rejoinder-to-clarification-on-fudging-fraudulence\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/124690/meryl-streep-judi-dench-take-a-hit-against-weinstein-over-sexual-harassment-claims-2/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\124647\forewarning-events\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289039/criticism-of-the-military-is-not-treason/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\124650\amicus-curiae-and-military-courts\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289037/a-strange-decision/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\124653\chasing-feminism-in-pakistan\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/124654/the-flagging-chinese-leverage-on-n-korea/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\124654\the-flagging-chinese-leverage-on-n-korea\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289065/tlp-sit-in/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\124657\of-kings-party-and-campaign-finance\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/124653/chasing-feminism-in-pakistan/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\124658\road-to-peace-in-the-region\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289062/police-search-for-motive-in-florida-mass-shooting/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\124660\the-global-resurgence-of-the-right\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\124690\meryl-streep-judi-dench-take-a-hit-against-weinstein-over-sexual-harassment-claims-2\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289037\a-strange-decision\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289039\criticism-of-the-military-is-not-treason\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289051\new-government-new-challenges\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289057\pakistan-media-watch-3\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289060\search-after-asylum-seeker-boat-runs-aground-in-croc-infested-waters\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289061\pope-refuses-to-comment-on-claim-he-personally-ignored-abuse\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289062\police-search-for-motive-in-florida-mass-shooting\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289063\rangers-detain-two-imposters\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289064\fia-nab-must-cooperate-to-fight-white-collar-crime-pm\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289065\tlp-sit-in\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289071\rohingya-and-genocide\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289072\hrws-open-letter-to-imran\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289073\redeveloping-historical-awareness-on-kashmir\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289074\pm-imran-khans-naya-pakistan-and-us-pakistan-relations-part-ii\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\289075\todays-cartoon-1809\index.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/18/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/9/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/11/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/7/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/16/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/6/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/17/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/10/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/19/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/8/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/4/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/15/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/3/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/12/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/2/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/13/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/5/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/14/index.html
-Error parsing getArticleAuthors
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/feed/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\feed\index.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289071/rohingya-and-genocide/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/124647/forewarning-events/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/124612/rejoinder-to-clarification-on-fudging-fraudulence/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289060/search-after-asylum-seeker-boat-runs-aground-in-croc-infested-waters/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/124658/road-to-peace-in-the-region/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/124660/the-global-resurgence-of-the-right/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289051/new-government-new-challenges/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289057/pakistan-media-watch-3/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/124650/amicus-curiae-and-military-courts/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289061/pope-refuses-to-comment-on-claim-he-personally-ignored-abuse/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/124657/of-kings-party-and-campaign-finance/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289075/todays-cartoon-1809/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289072/hrws-open-letter-to-imran/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289073/redeveloping-historical-awareness-on-kashmir/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/289074/pm-imran-khans-naya-pakistan-and-us-pakistan-relations-part-ii/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/124611/mamnoon-for-strong-ties-with-malaysia-sweden/index.html
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\10\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/9/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\11\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/11/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\12\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/7/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\13\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/16/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\14\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/6/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\15\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/10/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\16\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/8/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\2\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/4/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\3\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/15/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\4\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/3/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\5\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/12/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\6\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/2/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\7\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/13/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\8\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/5/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\khyber-pakhtunkhwa\page\9\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/14/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\index.html
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/feed/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\feed\index.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062015.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\10\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062003.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\11\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062002.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\12\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062014.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\13\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062013.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\14\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062005.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\15\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062009.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\16\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062008.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\17\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062004.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\18\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062012.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\19\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062007.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\2\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062011.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\3\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062010.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\4\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062006.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\5\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062001.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\6\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062016.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\7\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn/page1062000.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\8\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-cops-gunned-kandahar/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes\letters\page\9\index.html
+Error parsing getArticleAuthors
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-administration-request-interior-ministry-put-qadri-ecl/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062000.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-killed-south-africa-football-stadium-stampede/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062001.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-cops-3-taliban-killed-gunfight/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062002.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-kabul-can-fight-war-terror/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062003.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-dead-9-injured-us-school-explosion/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062004.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islam-religion-peace-tolerance-pasroori/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062005.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/1-6m-children-living-with-asthma-in-pakistan/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062006.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/1-4-million-pilgrims-arrive-saudi-arabia-hajj/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062007.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/1-5-million-children-schools-kp-survey-report/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062008.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-0-movie-rajni-kanth-akshay-kumar-release-mid-april/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062009.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-delhi-exchange-list-nuclear-installations/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062010.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-french-ex-spies-probed-charged-for-treason/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062011.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-die-two-injured-road-accidents/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062012.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-operation-initiated-without-consent-political-leadership-iqbal/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062013.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-protest-education-institutes-remain-closed-monday-tuesday-punjab/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062014.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-peshawar-eye-second-title-historic-karachi-clash/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062015.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-3m-people-registered-as-voters-iec/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn\page1062016.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/1-3-children-still-unimmunized-afghanistan-says-moph/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\0-2m-cases-not-heard-due-lawyers-strikes-lhc-chief-justice\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-protest-pti-demands-immediate-resignation-interior-minister/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\1-3-children-still-unimmunized-afghanistan-says-moph\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-police-prepares-security-plan-christmas/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\1-4-million-pilgrims-arrive-saudi-arabia-hajj\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-hurt-in-voter-registration-centre-blast/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\1-4m-muslims-arrive-for-hajj\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-ana-troops-8-taliban-killed/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\1-5-million-children-schools-kp-survey-report\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\1-6m-children-living-with-asthma-in-pakistan\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-court-hears-imran-khan-disqualification-petition/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-0-movie-rajni-kanth-akshay-kumar-release-mid-april\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/0-2m-cases-not-heard-due-lawyers-strikes-lhc-chief-justice/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-3m-people-registered-as-voters-iec\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/1-4m-muslims-arrive-for-hajj/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-ana-troops-8-taliban-killed\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-iranian-civilians-killed-alleged-cross-border-attack/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-cops-3-taliban-killed-gunfight\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-protesters-contacted-india-claims-interior-minister-ahsan-iqbal/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-cops-gunned-kandahar\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/2-killed-3-injured-in-firing-over-domestic-disputes/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-dead-9-injured-us-school-explosion\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-protest-ihc-orders-local-admin-clear-protesters-tomorrow/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-die-two-injured-road-accidents\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad-administration-conducted-faizabad-operation-high-courts-order-ahsan-iqbal/index.html
-Error parsing getArticleText
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-french-ex-spies-probed-charged-for-treason\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/302-pakistan-to-audit-230-million-us-anti-terror-fund.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-hurt-in-voter-registration-centre-blast\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/1458-are-you-happy-now-coach.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-iranian-civilians-killed-alleged-cross-border-attack\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132334.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-killed-3-injured-in-firing-over-domestic-disputes\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132271.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\2-killed-south-africa-football-stadium-stampede\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208773.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islam-religion-peace-tolerance-pasroori\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132274-Migrant-torture-and-trauma-victims-overlooked-by-member-states-EU-report.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/634.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-administration-conducted-faizabad-operation-high-courts-order-ahsan-iqbal\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208759-prominent-iranian-human-rights-lawyer-announces-hunger-strike-in-prison.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-administration-request-interior-ministry-put-qadri-ecl\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132333-Sami-is-a-proven-match-winner-says-Misbah.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-court-hears-imran-khan-disqualification-petition\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/399.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-delhi-exchange-list-nuclear-installations\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208775-opposition-lambasts-ppp-for-failure-to-field-joint-presidential-candidate.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-kabul-can-fight-war-terror\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208749.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-operation-initiated-without-consent-political-leadership-iqbal\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208748.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-peshawar-eye-second-title-historic-karachi-clash\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/1211.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-police-prepares-security-plan-christmas\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/422.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-protest-education-institutes-remain-closed-monday-tuesday-punjab\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208764.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-protest-ihc-orders-local-admin-clear-protesters-tomorrow\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/414.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-protest-pti-demands-immediate-resignation-interior-minister\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208752.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost\islamabad-protesters-contacted-india-claims-interior-minister-ahsan-iqbal\index.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208762-half-the-worlds-schools-lack-clean-water-toilets-and-handwashing.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\1081-minor-girl-tortured-by-employers-in-lahore.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/603.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\1081.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208763.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\1211-saeed-ajmal-signs-lucrative-contract-with-worcestershire.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132256-Sharjeel-Latif-and-Irfan-met-bookies-did-not-inform-board-PCB-Chairman.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\1211.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132324.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132252-PSL-final-should-be-held-in-Lahore-Amir-Khan.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208775.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132252.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208779-pakistan-to-raise-objections-on-indian-water-projects-on-chenab-river.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132254-CJP-takes-notice-of-woman-trafficking-case-in-Rawalpindi.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208759.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132254.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/1081-minor-girl-tortured-by-employers-in-lahore.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132256-Sharjeel-Latif-and-Irfan-met-bookies-did-not-inform-board-PCB-Chairman.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208754-investors-to-get-their-say-after-musk-scuttles-tesla-buyout.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132256.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/399-islamabad-police-identify-198-suspected-ghazi-force-militants.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132271-Sixth-Census-2017-Why-leaders-are-fearful.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132256.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132271.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/941.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132274-Migrant-torture-and-trauma-victims-overlooked-by-member-states-EU-report.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/1585-miracle-on-a-green-pitch-the-story-of-pakistan-s-greatest-odi-disaster.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132274.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132334-Women-PSL-will-benefit-national-cricket-Pak-t20-captain-Bismah-Maroof.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132281-Birthday-boy-Sami-bowls-United-to-thrilling-win.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208754.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132281.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/994.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132300-NCA-Lahore-closed-for-a-week-students-asked-to-immediately-vacate-hostels.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132300-NCA-Lahore-closed-for-a-week-students-asked-to-immediately-vacate-hostels.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132300.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/603-world-cup-history-5-sparkling-performances-that-bit-the-dust.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132324-Momina-Mustehsan-comes-out-in-favour-of-PSL-for-women-cricketers.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208773-over-1200-people-killed-in-south-asia-monsoon.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132324.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/414-death-penalty-or-life-for-killing-in-the-name-of-honour.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132333-Sami-is-a-proven-match-winner-says-Misbah.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132324-Momina-Mustehsan-comes-out-in-favour-of-PSL-for-women-cricketers.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132333.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208763-tajik-or-russian-plane-bombed-afghan-border-area-in-takhar-province-official.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132334-Women-PSL-will-benefit-national-cricket-Pak-t20-captain-Bismah-Maroof.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208774.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\132334.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132333.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\1351-blog-the-2-w-s-decades-old-wounds-still-spilling-blood.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208762.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\1351.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/1351.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\1423-top-5-moments-pakistan-vs-south-africa.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/1081.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\1423.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208764-four-questions-on-irans-legal-challenge-to-us-sanctions.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\1458-are-you-happy-now-coach.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208757.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\1458.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208752-iran-to-open-lawsuit-against-us-sanctions-at-icj.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\1585-miracle-on-a-green-pitch-the-story-of-pakistan-s-greatest-odi-disaster.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132252-PSL-final-should-be-held-in-Lahore-Amir-Khan.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208747.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208749-sc-gives-six-more-weeks-to-conclude-remaining-references-against-sharifs.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208748-five-of-family-killed-as-car-collides-with-coaster-in-karak.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132281.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208748.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/77-pakistan-faced-with-two-commonest-forms-of-malnutrition.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208749-sc-gives-six-more-weeks-to-conclude-remaining-references-against-sharifs.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132254.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208749.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/1351-blog-the-2-w-s-decades-old-wounds-still-spilling-blood.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208752-iran-to-open-lawsuit-against-us-sanctions-at-icj.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132274.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208752.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132271-Sixth-Census-2017-Why-leaders-are-fearful.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208754-investors-to-get-their-say-after-musk-scuttles-tesla-buyout.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208774-myanmar-army-chief-must-be-prosecuted-for-rohingya-genocide-un-probe.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208754.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/277.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208757-new-punjab-cabinet-to-be-sworn-in-today.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208747.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208757.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/952.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208759-prominent-iranian-human-rights-lawyer-announces-hunger-strike-in-prison.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132300.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208759.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/941-undeniable-similarities-between-mosque-and-aps-attacks.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208762-half-the-worlds-schools-lack-clean-water-toilets-and-handwashing.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/634-banned-terrorist-outfits-trying-to-establish-network-in-interior-sindh.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208762.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/1423-top-5-moments-pakistan-vs-south-africa.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208763-tajik-or-russian-plane-bombed-afghan-border-area-in-takhar-province-official.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/952-twinkle-twinkle-little-star-who-will-be-the-sunday-star.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208763.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/994-usman-saifullah-kurd-a-reign-of-sectarian-terror.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208764-four-questions-on-irans-legal-challenge-to-us-sanctions.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208748-five-of-family-killed-as-car-collides-with-coaster-in-karak.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208764.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/277-indian-border-violations-distracting-pakistan-from-task-at-hand-bajwa.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208773-over-1200-people-killed-in-south-asia-monsoon.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208757-new-punjab-cabinet-to-be-sworn-in-today.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208773.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/422-world-cup-2015-11-players-who-will-be-missed.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208774-myanmar-army-chief-must-be-prosecuted-for-rohingya-genocide-un-probe.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/77.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208774.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/1458.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208775-opposition-lambasts-ppp-for-failure-to-field-joint-presidential-candidate.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/302.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208775.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/208777-army-chief-extends-condolences-on-friend-of-pakistan-john-mccains-death.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208777-army-chief-extends-condolences-on-friend-of-pakistan-john-mccains-death.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132281-Birthday-boy-Sami-bowls-United-to-thrilling-win.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\208779-pakistan-to-raise-objections-on-indian-water-projects-on-chenab-river.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/1211-saeed-ajmal-signs-lucrative-contract-with-worcestershire.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\277-indian-border-violations-distracting-pakistan-from-task-at-hand-bajwa.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132254-CJP-takes-notice-of-woman-trafficking-case-in-Rawalpindi.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\277.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/1423.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\302-pakistan-to-audit-230-million-us-anti-terror-fund.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo/132252.html
-Error parsing getArticleUrl
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\302.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/97331-Trump-Sanders-ride-US-anti-establishment-tide-to-New-Hampshire-win.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\399-islamabad-police-identify-198-suspected-ghazi-force-militants.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/105712-Stats-back-Pakistan-to-avenge-Asia-Cup-defeat-against-Bangladesh.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\399.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360230-railways-officer-reluctant-to-work-under-sheikh-rasheed-sacked.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\414-death-penalty-or-life-for-killing-in-the-name-of-honour.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/104714-Shahbaz-Taseer-back-on-twitter-after-release.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\414.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/109598-US-Folk-singers-attend-Pakistan-Day-celebrations-in-Dallas.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\422-world-cup-2015-11-players-who-will-be-missed.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/116902-KP-win-Pakistan-Cup.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\422.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/94429-Facebook-likely-to-become-publisher-of-everything-says-Prof-Craig-Duff.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\603-world-cup-history-5-sparkling-performances-that-bit-the-dust.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/90313-Pakistani-appointed-UKs-Shadow-Minister-of-State.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\603.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360231-jui-f-chief-meets-zardari-seeks-ppps-support-for-presidential-election.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\634-banned-terrorist-outfits-trying-to-establish-network-in-interior-sindh.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/4683-kanupp-defends-its-ambitions-rules-out-doomsday-scenario.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\634.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/113377-SRK-Fan-breaks-records-earns-50-crore-in-just-two-days.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\77-pakistan-faced-with-two-commonest-forms-of-malnutrition.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/117943-Pakistani-bus-drivers-son-Sadiq-Khan-becomes-London-Mayor.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\77.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360222-shah-rukh-khan-speaks-out-against-gender-wage-disparity-in-bollywood.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\941-undeniable-similarities-between-mosque-and-aps-attacks.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360223-senate-passes-national-disaster-management-amendment-act-2017.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\941.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/105196-Sarfraz-Merchant-refuses-to-appear-before-FIA-on-March-15.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\952-twinkle-twinkle-little-star-who-will-be-the-sunday-star.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360233-afghanistan-win-1st-odi-against-ireland-by-29-runs.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\952.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360234-canadas-freeland-to-travel-to-washington-tuesday-for-nafta.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\994-usman-saifullah-kurd-a-reign-of-sectarian-terror.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360227-guest-of-honour-status-for-pakistan-at-chinas-international-import-expo.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\Geo\994.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360225-senator-hidayat-ullah-khan-joins-pti.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\104714-Shahbaz-Taseer-back-on-twitter-after-release.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360229-afghanistan-win-1st-odi-against-ireland-by-29-runs.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\105196-Sarfraz-Merchant-refuses-to-appear-before-FIA-on-March-15.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360221-aleem-khan-announces-to-donate-salary-as-minister-to-skmch.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\105712-Stats-back-Pakistan-to-avenge-Asia-Cup-defeat-against-Bangladesh.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/122967-Musharrafs-APML-holds-workers-convention-in-US.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\109598-US-Folk-singers-attend-Pakistan-Day-celebrations-in-Dallas.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/126577-Sadiq-Khan-disappointed-by-childhood-hero-Imrans-support-to-Zac.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\111683-Punjab-Woman-set-on-fire-in-Burewal.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360224-russia-says-afghanistan-talks-postponed.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\113377-SRK-Fan-breaks-records-earns-50-crore-in-just-two-days.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/122966-Pakistani-traders-visit-Houston.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\114329-US-based-Pakistani-kills-wife-in-Arlington.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360228-millions-risk-malnutrition-as-co2-levels-climb-study.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\116902-KP-win-Pakistan-Cup.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/122635-Bill-tabled-in-US-Senate-to-block-300-million-aid-to-Pakistan.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\117943-Pakistani-bus-drivers-son-Sadiq-Khan-becomes-London-Mayor.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360226-who-gave-shahid-afridi-famous-boom-boom-title.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\121860-Cancer-on-the-rise-among-children-in-underprivileged-areas-of-Pakistan.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/114329-US-based-Pakistani-kills-wife-in-Arlington.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\122635-Bill-tabled-in-US-Senate-to-block-300-million-aid-to-Pakistan.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/121860-Cancer-on-the-rise-among-children-in-underprivileged-areas-of-Pakistan.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\122966-Pakistani-traders-visit-Houston.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/6285-army-public-school-tragedy-can-never-be-forgotten-coas.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\122967-Musharrafs-APML-holds-workers-convention-in-US.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/111683-Punjab-Woman-set-on-fire-in-Burewal.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\126577-Sadiq-Khan-disappointed-by-childhood-hero-Imrans-support-to-Zac.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/4515-pakistans-first-animated-film-3-bahadur-premieres-in-karachi.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360221-aleem-khan-announces-to-donate-salary-as-minister-to-skmch.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/360232-pakistan-beat-thailand-in-asian-games-baseball.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360222-shah-rukh-khan-speaks-out-against-gender-wage-disparity-in-bollywood.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Environment.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360223-senate-passes-national-disaster-management-amendment-act-2017.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360224-russia-says-afghanistan-talks-postponed.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360225-senator-hidayat-ullah-khan-joins-pti.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360226-who-gave-shahid-afridi-famous-boom-boom-title.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360227-guest-of-honour-status-for-pakistan-at-chinas-international-import-expo.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360228-millions-risk-malnutrition-as-co2-levels-climb-study.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360229-afghanistan-win-1st-odi-against-ireland-by-29-runs.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360230-railways-officer-reluctant-to-work-under-sheikh-rasheed-sacked.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360231-jui-f-chief-meets-zardari-seeks-ppps-support-for-presidential-election.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360232-pakistan-beat-thailand-in-asian-games-baseball.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360233-afghanistan-win-1st-odi-against-ireland-by-29-runs.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\360234-canadas-freeland-to-travel-to-washington-tuesday-for-nafta.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\4515-pakistans-first-animated-film-3-bahadur-premieres-in-karachi.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\4683-kanupp-defends-its-ambitions-rules-out-doomsday-scenario.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\6285-army-public-school-tragedy-can-never-be-forgotten-coas.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\90313-Pakistani-appointed-UKs-Shadow-Minister-of-State.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\94429-Facebook-likely-to-become-publisher-of-everything-says-Prof-Craig-Duff.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\97331-Trump-Sanders-ride-US-anti-establishment-tide-to-New-Hampshire-win.html
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\Arts.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/videos.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\Books.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Arts.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Fashion.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/world.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/sports.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Books.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/opinion.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/sci-tech.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\business.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/politics.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Life-style.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Wildlife.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/entertainment.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\entertainment.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/weird.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\Environment.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/health.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\Fashion.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\health.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/business.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\Life-style.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\Movies.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\Music.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\national.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\opinion.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\politics.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\sci-tech.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/national.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\sponsor.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Movies.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\sports.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Music.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\videos.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/sponsor.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\weird.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/world/2018-08-26.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\Wildlife.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\world.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\national\2018-08-25.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/world/2018-08-25.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\national\2018-08-26.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/national/2018-08-26.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\world\2018-08-25.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/national/2018-08-25.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\latest\category\world\2018-08-26.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15916-increase-in-uf-gas-benchmark-challenged-in-ihc.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15847-legal-experts-slam-sales-tax-increase-procedure.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15903-na-123-faces-civic-problems-upsurge-in-crime.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15848-pakistan-afghanistan-to-start-talks-on-pta-today.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15929-hanif-abbasi-claims-project-to-be-completed-as-per-schedule.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15853-oil-price-plunge-gives-pakistan-breathing-space.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15921-family-of-three-mentally-disabled-children-needs-help.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15854-circular-debt-a-vicious-cycle-of-unpaid-bills.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15920-prolonged-power-outages-playing-on-nerves-of-pindiites.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15877-promises-didnt-make-sindh-any-healthier-in-2014.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15854-circular-debt-a-vicious-cycle-of-unpaid-bills.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15887-establishment-of-military-courts-challenged.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15933-mutual-legal-assistance-law-to-help-block-terror-financing.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15891-apna-rozgar-scheme-gets-good-response.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15938-govt-cant-change-constitution-sans-consensus.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15894-dismal-performance-of-punjab-food-authority.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15919-new-drug-pricing-policy-will-it-really-purge-the-system-of-discretion.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15898-faysal-all-praise-for-geo.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15936-2014-darkest-year-in-terms-of-polio-eradication.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15903-na-123-faces-civic-problems-upsurge-in-crime.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360154-implementation-of-5pc-quota-for-minorities-in-pa-secretariat-jobs-sought.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15915-land-record-couldnt-be-computerised-in-2014.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15974-a-year-of-collective-insanity.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15916-increase-in-uf-gas-benchmark-challenged-in-ihc.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15942-political-parties-fear-military-courts-may-target-them.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15919-new-drug-pricing-policy-will-it-really-purge-the-system-of-discretion.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15948-pak-afghan-mps-call-for-joint-efforts-to-curb-terrorism.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15920-prolonged-power-outages-playing-on-nerves-of-pindiites.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15972-the-power-of-the-pulpit.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15921-family-of-three-mentally-disabled-children-needs-help.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360157-3-security-men-among-5-hurt-in-turbat-grenade-blast.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15929-hanif-abbasi-claims-project-to-be-completed-as-per-schedule.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15853-oil-price-plunge-gives-pakistan-breathing-space.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15933-mutual-legal-assistance-law-to-help-block-terror-financing.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15847-legal-experts-slam-sales-tax-increase-procedure.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15935-hanged-paf-man-was-close-aide-of-ttp-leader.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15935-hanged-paf-man-was-close-aide-of-ttp-leader.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15936-2014-darkest-year-in-terms-of-polio-eradication.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15891-apna-rozgar-scheme-gets-good-response.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15937-senate-panel-directs-ministry-to-re-open-motorway-exit-to-new-airport.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360153-malik-asks-imran-to-form-body-to-probe-rts-failure.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15938-govt-cant-change-constitution-sans-consensus.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360151-two-ppp-politicians-pa-s-ex-deputy-speaker-join-pti.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15939-names-of-heads-for-state-run-enterprises-finalised.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15894-dismal-performance-of-punjab-food-authority.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15942-political-parties-fear-military-courts-may-target-them.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15877-promises-didnt-make-sindh-any-healthier-in-2014.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15948-pak-afghan-mps-call-for-joint-efforts-to-curb-terrorism.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15898-faysal-all-praise-for-geo.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15949-army-act-not-constitution-being-amended-to-try-terrorists.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360155-pti-regime-to-follow-the-swedish-governance-model.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15972-the-power-of-the-pulpit.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15937-senate-panel-directs-ministry-to-re-open-motorway-exit-to-new-airport.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15973-state-and-religion.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15973-state-and-religion.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15974-a-year-of-collective-insanity.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15887-establishment-of-military-courts-challenged.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\15975-a-capital-storm.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360156-four-firs-lodged-over-drug-raid-gone-wrong.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\360151-two-ppp-politicians-pa-s-ex-deputy-speaker-join-pti.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15848-pakistan-afghanistan-to-start-talks-on-pta-today.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\360152-ghani-to-keep-a-close-eye-on-water-board-sbca-kda-kmc.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15975-a-capital-storm.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\360153-malik-asks-imran-to-form-body-to-probe-rts-failure.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15915-land-record-couldnt-be-computerised-in-2014.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\360154-implementation-of-5pc-quota-for-minorities-in-pa-secretariat-jobs-sought.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15949-army-act-not-constitution-being-amended-to-try-terrorists.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\360155-pti-regime-to-follow-the-swedish-governance-model.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/15939-names-of-heads-for-state-run-enterprises-finalised.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\360156-four-firs-lodged-over-drug-raid-gone-wrong.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/360152-ghani-to-keep-a-close-eye-on-water-board-sbca-kda-kmc.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\360157-3-security-men-among-5-hurt-in-turbat-grenade-blast.html
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/newspost.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\business.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/editorial.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\editorial.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/world.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\islamabad.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/sports.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\karachi.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/opinion.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\lahore.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/top-story.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\national.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/karachi.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\newspost.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/lahore.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\opinion.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/islamabad.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\peshawar.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/business.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\sports.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/national.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\top-story.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/peshawar.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\world.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-working on: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/opinion/index.html
+working on: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews\print\category\opinion\index.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags

@@ -1,15 +1,15 @@
-outputFolderPath: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/articles
+outputFolderPath: E:\Python Projects\panda-dataset\artifacts\articles
 outputType: YAML
 inputSources:
   - publisher: DailyTimes
-    folder: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes
+    folder: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes
   - publisher: Dawn
-    folder: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Dawn
+    folder: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn
   - publisher: FridayTimes
-    folder: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FridayTimes
+    folder: E:\Python Projects\panda-dataset\artifacts\source-code\FridayTimes
   - publisher: FrontierPost
-    folder: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost
+    folder: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost
   - publisher: Geo
-    folder: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Geo
+    folder: E:\Python Projects\panda-dataset\artifacts\source-code\Geo
   - publisher: TheNews
-    folder: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews
+    folder: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews

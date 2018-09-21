@@ -32,7 +32,7 @@ class DailyTimes(common.Publisher):
         tags = text_handle[0].findAll()
         for tag in tags:
             # Up to h5 is not necessary, however for safe side it is being used
-            if tag.name in ['p', 'li', 'h2', 'h3', 'h4', 'h5']:
+            if tag.name in ['p', 'li', 'h2', 'h3', 'h4', 'h5', 'br']:
                 # Here we remove all the non-ASCII characters from the string
                 text += re.sub(r'[^\x00-\x7F]+', ' ', tag.text)
                 text += ' '
@@ -46,7 +46,9 @@ class DailyTimes(common.Publisher):
             Assumption for extracting Author name
             < a href="SOME LINK" title="More Articles by staff Report" class="author-name">AUTHOR NAME </a>
         """
-        return pageSoup.find(class_='author-name').text.split()
+        author_name = []
+        author_name.append(pageSoup.find(class_='author-name').text)
+        return author_name
 
     def getArticleHeading(self, articleSourceFilename, pageSoup):
         """

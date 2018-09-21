@@ -21,10 +21,10 @@ class FrontierPost(common.Publisher):
     def getArticleText(self, articleSourceFilename, pageSoup):
         text = ''
         text_handle = pageSoup.findAll('div', {'class': 'entry-content'})
-        tags = text_handle[0].findAll
+        tags = text_handle[0].findAll()
 
         for tag in tags:
-            if tag.name in ['p', 'li', 'h2', 'h3', 'h4', 'h5']:
+            if tag.name in ['p', 'li', 'h2', 'h3', 'h4', 'h5', 'br']:
                 text += re.sub(r'[^\x00-\x7F]+', ' ', tag.text)
                 text += ' '
         return text

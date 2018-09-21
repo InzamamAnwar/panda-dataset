@@ -4,9 +4,16 @@ Created on Tue Aug 14 12:34:33 2018
 """
 
 import common
-from bs4 import BeautifulSoup as soup
+from bs4 import Comment
+from datetime import datetime
 import pdb
 import re
+
+
+def dateconvert(date_string):
+    date = date_string.replace(',', '')
+    date_obj = datetime.strptime(date, '%B %d %Y')
+    return date_obj
 
 class TheNews(common.Publisher):
 
@@ -17,7 +24,9 @@ class TheNews(common.Publisher):
         return "The News"
 
     def getArticleUrl(self, filename, pageSoup):
-        return None
+        comment = pageSoup.find(string=lambda comment_text: isinstance(comment_text, Comment))
+        url = 'https://' + comment.split(' ')[3]
+        return url
 
     def getArticleLocalID(self, filename, pageSoup):
         return None
@@ -31,6 +40,11 @@ class TheNews(common.Publisher):
 
     def getArticleDate(self, filename, pageSoup):
         dateString = pageSoup.find("div", {"class" : "category-date"}).text.strip("\r\n\t ")
+        """
+            Date string format for The News is Month Day, Year
+            E.g. "February 10, 2016"
+        """
+
         # TODO: convert dateString to Date object, use date-time feature
         return dateString
 
