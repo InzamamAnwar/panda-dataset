@@ -1,7 +1,7 @@
 ---
 authors: null
 date: null
-globalID: '1'
+globalID: 1
 heading: Daily Times
 language: en
 publisher: Daily Times
@@ -15,7 +15,7 @@ url: https://dailytimes.com.pk/
 ---
 authors: null
 date: null
-globalID: '1'
+globalID: 2
 heading: 'You searched for {s} '
 language: en
 publisher: Daily Times
@@ -27,7 +27,7 @@ url: https://dailytimes.com.pk/?s={s}
 ---
 authors: null
 date: null
-globalID: '1'
+globalID: 3
 heading: 'Page not found '
 language: en
 publisher: Daily Times
@@ -48,8 +48,8 @@ url: https://9]>
 ---
 authors:
 - DNA
-date: 2017-10-11 00:00:00
-globalID: '1'
+date: 11-10-2017
+globalID: 4
 heading: 'Mamnoon for strong ties with Malaysia, Sweden '
 language: en
 publisher: Daily Times
@@ -76,8 +76,8 @@ url: https://dailytimes.com.pk/124611/mamnoon-for-strong-ties-with-malaysia-swed
 ---
 authors:
 - Dr Ikramul Haq
-date: 2017-10-11 00:00:00
-globalID: '1'
+date: 11-10-2017
+globalID: 5
 heading: "Rejoinder to clarification on \x91fudging &amp; fraudulence\x92 "
 language: en
 publisher: Daily Times
@@ -168,8 +168,8 @@ url: https://dailytimes.com.pk/124612/rejoinder-to-clarification-on-fudging-frau
 ---
 authors:
 - Wajid Shamsul Hasan
-date: 2017-10-11 00:00:00
-globalID: '1'
+date: 11-10-2017
+globalID: 6
 heading: 'Forewarning events '
 language: en
 publisher: Daily Times
@@ -258,8 +258,8 @@ url: https://dailytimes.com.pk/124647/forewarning-events/
 ---
 authors:
 - Shaukat Qadir
-date: 2017-10-11 00:00:00
-globalID: '1'
+date: 11-10-2017
+globalID: 7
 heading: 'Amicus Curiae and military courts '
 language: en
 publisher: Daily Times
@@ -343,8 +343,8 @@ url: https://dailytimes.com.pk/124650/amicus-curiae-and-military-courts/
 ---
 authors:
 - Inamullah Marwat
-date: 2017-10-11 00:00:00
-globalID: '1'
+date: 11-10-2017
+globalID: 8
 heading: 'Chasing feminism in Pakistan '
 language: en
 publisher: Daily Times
@@ -429,8 +429,8 @@ url: https://dailytimes.com.pk/124653/chasing-feminism-in-pakistan/
 ---
 authors:
 - Dr Ahmad Rashid Malik
-date: 2017-10-11 00:00:00
-globalID: '1'
+date: 11-10-2017
+globalID: 9
 heading: 'The flagging Chinese leverage on N Korea '
 language: en
 publisher: Daily Times
@@ -507,8 +507,8 @@ url: https://dailytimes.com.pk/124654/the-flagging-chinese-leverage-on-n-korea/
 ---
 authors:
 - Imran Jan
-date: 2017-10-11 00:00:00
-globalID: '1'
+date: 11-10-2017
+globalID: 10
 heading: "Of king\x92s party and campaign finance "
 language: en
 publisher: Daily Times
@@ -590,8 +590,8 @@ url: https://dailytimes.com.pk/124657/of-kings-party-and-campaign-finance/
 ---
 authors:
 - Iftikhar Ahmad .
-date: 2017-10-11 00:00:00
-globalID: '1'
+date: 11-10-2017
+globalID: 11
 heading: 'Road to peace in the region '
 language: en
 publisher: Daily Times
@@ -672,8 +672,8 @@ url: https://dailytimes.com.pk/124658/road-to-peace-in-the-region/
 ---
 authors:
 - Muhammad Ali Baig
-date: 2017-10-11 00:00:00
-globalID: '1'
+date: 11-10-2017
+globalID: 12
 heading: 'The global resurgence of the right '
 language: en
 publisher: Daily Times
@@ -751,8 +751,8 @@ url: https://dailytimes.com.pk/124660/the-global-resurgence-of-the-right/
 ---
 authors:
 - Reuters
-date: 2017-10-10 00:00:00
-globalID: '1'
+date: 10-10-2017
+globalID: 13
 heading: 'Meryl Streep, Judi Dench take a hit against Weinstein over sexual harassment
   claims '
 language: en
@@ -797,8 +797,8 @@ url: https://dailytimes.com.pk/124690/meryl-streep-judi-dench-take-a-hit-against
 ---
 authors:
 - Daily Times
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 14
 heading: 'A strange decision '
 language: en
 publisher: Daily Times
@@ -828,8 +828,8 @@ url: https://dailytimes.com.pk/289037/a-strange-decision/
 ---
 authors:
 - Ailia Zehra
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 15
 heading: 'Criticism of the military is not treason '
 language: en
 publisher: Daily Times
@@ -906,8 +906,8 @@ url: https://dailytimes.com.pk/289039/criticism-of-the-military-is-not-treason/
 ---
 authors:
 - Munir Ahmed
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 16
 heading: 'New government, new challenges '
 language: en
 publisher: Daily Times
@@ -987,8 +987,8 @@ url: https://dailytimes.com.pk/289051/new-government-new-challenges/
 ---
 authors:
 - Shakil Chaudhary
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 17
 heading: 'Pakistan media watch '
 language: en
 publisher: Daily Times
@@ -1070,8 +1070,8 @@ url: https://dailytimes.com.pk/289057/pakistan-media-watch-3/
 ---
 authors:
 - Agencies
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 18
 heading: 'Search after asylum-seeker boat runs aground in croc-infested waters '
 language: en
 publisher: Daily Times
@@ -1120,8 +1120,8 @@ url: https://dailytimes.com.pk/289060/search-after-asylum-seeker-boat-runs-agrou
 ---
 authors:
 - Agencies
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 19
 heading: 'Pope refuses to comment on claim he personally ignored abuse '
 language: en
 publisher: Daily Times
@@ -1187,8 +1187,8 @@ url: https://dailytimes.com.pk/289061/pope-refuses-to-comment-on-claim-he-person
 ---
 authors:
 - Agencies
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 20
 heading: 'Police search for motive in Florida mass shooting '
 language: en
 publisher: Daily Times
@@ -1241,8 +1241,8 @@ url: https://dailytimes.com.pk/289062/police-search-for-motive-in-florida-mass-s
 ---
 authors:
 - Tahir Abbasi
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 21
 heading: 'Rangers detain two imposters '
 language: en
 publisher: Daily Times
@@ -1267,8 +1267,8 @@ url: https://dailytimes.com.pk/289063/rangers-detain-two-imposters/
 ---
 authors:
 - Agencies
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 22
 heading: 'FIA, NAB must cooperate to fight white collar crime: PM '
 language: en
 publisher: Daily Times
@@ -1304,8 +1304,8 @@ url: https://dailytimes.com.pk/289064/fia-nab-must-cooperate-to-fight-white-coll
 ---
 authors:
 - Daily Times
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 23
 heading: 'TLP sit-in '
 language: en
 publisher: Daily Times
@@ -1353,8 +1353,8 @@ url: https://dailytimes.com.pk/289065/tlp-sit-in/
 ---
 authors:
 - Daily Times
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 24
 heading: 'Rohingya and genocide '
 language: en
 publisher: Daily Times
@@ -1405,8 +1405,8 @@ url: https://dailytimes.com.pk/289071/rohingya-and-genocide/
 ---
 authors:
 - Daily Times
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 25
 heading: "HRW\u2019s open letter to Imran "
 language: en
 publisher: Daily Times
@@ -1458,8 +1458,8 @@ url: https://dailytimes.com.pk/289072/hrws-open-letter-to-imran/
 ---
 authors:
 - Dr Nyla Ali Khan
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 26
 heading: 'Redeveloping historical awareness on Kashmir '
 language: en
 publisher: Daily Times
@@ -1554,8 +1554,8 @@ url: https://dailytimes.com.pk/289073/redeveloping-historical-awareness-on-kashm
 ---
 authors:
 - Najmuddin A Shaikh
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 27
 heading: "PM Imran Khan\u2019s Naya Pakistan and US-Pakistan relations Part \u2014\
   \ II "
 language: en
@@ -1648,8 +1648,8 @@ url: https://dailytimes.com.pk/289074/pm-imran-khans-naya-pakistan-and-us-pakist
 ---
 authors:
 - TARIQ AFRIDI
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 28
 heading: "TODAY\u2019S CARTOON "
 language: en
 publisher: Daily Times
@@ -1660,8 +1660,8 @@ url: https://dailytimes.com.pk/289075/todays-cartoon-1809/
 
 ---
 authors: null
-date: 2018-08-25 00:00:00
-globalID: '1'
+date: 25-08-2018
+globalID: 29
 heading: 'Khyber Pakhtunkhwa Archives '
 language: en
 publisher: Daily Times
@@ -1678,7 +1678,7 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/
 ---
 authors: null
 date: null
-globalID: '1'
+globalID: 30
 heading: null
 language: en
 publisher: Daily Times
@@ -1689,8 +1689,8 @@ url: https://W3
 
 ---
 authors: null
-date: 2018-05-01 00:00:00
-globalID: '1'
+date: 01-05-2018
+globalID: 31
 heading: 'Khyber Pakhtunkhwa Archives - Page 10 of 309 '
 language: en
 publisher: Daily Times
@@ -1706,8 +1706,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/10/
 
 ---
 authors: null
-date: 2018-04-24 00:00:00
-globalID: '1'
+date: 24-04-2018
+globalID: 32
 heading: 'Khyber Pakhtunkhwa Archives - Page 11 of 309 '
 language: en
 publisher: Daily Times
@@ -1723,8 +1723,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/11/
 
 ---
 authors: null
-date: 2018-04-09 00:00:00
-globalID: '1'
+date: 09-04-2018
+globalID: 33
 heading: 'Khyber Pakhtunkhwa Archives - Page 12 of 309 '
 language: en
 publisher: Daily Times
@@ -1740,8 +1740,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/12/
 
 ---
 authors: null
-date: 2018-03-28 00:00:00
-globalID: '1'
+date: 28-03-2018
+globalID: 34
 heading: 'Khyber Pakhtunkhwa Archives - Page 13 of 309 '
 language: en
 publisher: Daily Times
@@ -1757,8 +1757,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/13/
 
 ---
 authors: null
-date: 2018-03-17 00:00:00
-globalID: '1'
+date: 17-03-2018
+globalID: 35
 heading: 'Khyber Pakhtunkhwa Archives - Page 14 of 309 '
 language: en
 publisher: Daily Times
@@ -1774,8 +1774,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/14/
 
 ---
 authors: null
-date: 2018-03-08 00:00:00
-globalID: '1'
+date: 08-03-2018
+globalID: 36
 heading: 'Khyber Pakhtunkhwa Archives - Page 15 of 309 '
 language: en
 publisher: Daily Times
@@ -1791,8 +1791,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/15/
 
 ---
 authors: null
-date: 2018-02-25 00:00:00
-globalID: '1'
+date: 25-02-2018
+globalID: 37
 heading: 'Khyber Pakhtunkhwa Archives - Page 16 of 309 '
 language: en
 publisher: Daily Times
@@ -1808,8 +1808,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/16/
 
 ---
 authors: null
-date: 2018-08-06 00:00:00
-globalID: '1'
+date: 06-08-2018
+globalID: 38
 heading: 'Khyber Pakhtunkhwa Archives - Page 2 of 309 '
 language: en
 publisher: Daily Times
@@ -1826,8 +1826,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/2/
 
 ---
 authors: null
-date: 2018-07-22 00:00:00
-globalID: '1'
+date: 22-07-2018
+globalID: 39
 heading: 'Khyber Pakhtunkhwa Archives - Page 3 of 309 '
 language: en
 publisher: Daily Times
@@ -1843,8 +1843,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/3/
 
 ---
 authors: null
-date: 2018-07-13 00:00:00
-globalID: '1'
+date: 13-07-2018
+globalID: 40
 heading: 'Khyber Pakhtunkhwa Archives - Page 4 of 309 '
 language: en
 publisher: Daily Times
@@ -1860,8 +1860,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/4/
 
 ---
 authors: null
-date: 2018-07-02 00:00:00
-globalID: '1'
+date: 02-07-2018
+globalID: 41
 heading: 'Khyber Pakhtunkhwa Archives - Page 5 of 309 '
 language: en
 publisher: Daily Times
@@ -1877,8 +1877,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/5/
 
 ---
 authors: null
-date: 2018-06-23 00:00:00
-globalID: '1'
+date: 23-06-2018
+globalID: 42
 heading: 'Khyber Pakhtunkhwa Archives - Page 6 of 309 '
 language: en
 publisher: Daily Times
@@ -1894,8 +1894,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/6/
 
 ---
 authors: null
-date: 2018-06-03 00:00:00
-globalID: '1'
+date: 03-06-2018
+globalID: 43
 heading: 'Khyber Pakhtunkhwa Archives - Page 7 of 309 '
 language: en
 publisher: Daily Times
@@ -1911,8 +1911,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/7/
 
 ---
 authors: null
-date: 2018-05-17 00:00:00
-globalID: '1'
+date: 17-05-2018
+globalID: 44
 heading: 'Khyber Pakhtunkhwa Archives - Page 8 of 309 '
 language: en
 publisher: Daily Times
@@ -1928,8 +1928,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/8/
 
 ---
 authors: null
-date: 2018-05-09 00:00:00
-globalID: '1'
+date: 09-05-2018
+globalID: 45
 heading: 'Khyber Pakhtunkhwa Archives - Page 9 of 309 '
 language: en
 publisher: Daily Times
@@ -1945,8 +1945,8 @@ url: https://dailytimes.com.pk/khyber-pakhtunkhwa/page/9/
 
 ---
 authors: null
-date: 2018-08-28 00:00:00
-globalID: '1'
+date: 28-08-2018
+globalID: 46
 heading: 'Letters Archives '
 language: en
 publisher: Daily Times
@@ -1963,7 +1963,7 @@ url: https://dailytimes.com.pk/letters/
 ---
 authors: null
 date: null
-globalID: '1'
+globalID: 47
 heading: null
 language: en
 publisher: Daily Times
@@ -1974,8 +1974,8 @@ url: https://W3
 
 ---
 authors: null
-date: 2018-08-09 00:00:00
-globalID: '1'
+date: 09-08-2018
+globalID: 48
 heading: 'Letters Archives - Page 10 of 1140 '
 language: en
 publisher: Daily Times
@@ -1991,8 +1991,8 @@ url: https://dailytimes.com.pk/letters/page/10/
 
 ---
 authors: null
-date: 2018-08-07 00:00:00
-globalID: '1'
+date: 07-08-2018
+globalID: 49
 heading: 'Letters Archives - Page 11 of 1140 '
 language: en
 publisher: Daily Times
@@ -2008,8 +2008,8 @@ url: https://dailytimes.com.pk/letters/page/11/
 
 ---
 authors: null
-date: 2018-08-05 00:00:00
-globalID: '1'
+date: 05-08-2018
+globalID: 50
 heading: 'Letters Archives - Page 12 of 1140 '
 language: en
 publisher: Daily Times
@@ -2025,8 +2025,8 @@ url: https://dailytimes.com.pk/letters/page/12/
 
 ---
 authors: null
-date: 2018-08-03 00:00:00
-globalID: '1'
+date: 03-08-2018
+globalID: 51
 heading: 'Letters Archives - Page 13 of 1140 '
 language: en
 publisher: Daily Times
@@ -2042,8 +2042,8 @@ url: https://dailytimes.com.pk/letters/page/13/
 
 ---
 authors: null
-date: 2018-08-01 00:00:00
-globalID: '1'
+date: 01-08-2018
+globalID: 52
 heading: 'Letters Archives - Page 14 of 1140 '
 language: en
 publisher: Daily Times
@@ -2059,8 +2059,8 @@ url: https://dailytimes.com.pk/letters/page/14/
 
 ---
 authors: null
-date: 2018-07-30 00:00:00
-globalID: '1'
+date: 30-07-2018
+globalID: 53
 heading: 'Letters Archives - Page 15 of 1140 '
 language: en
 publisher: Daily Times
@@ -2076,8 +2076,8 @@ url: https://dailytimes.com.pk/letters/page/15/
 
 ---
 authors: null
-date: 2018-07-28 00:00:00
-globalID: '1'
+date: 28-07-2018
+globalID: 54
 heading: 'Letters Archives - Page 16 of 1140 '
 language: en
 publisher: Daily Times
@@ -2093,8 +2093,8 @@ url: https://dailytimes.com.pk/letters/page/16/
 
 ---
 authors: null
-date: 2018-07-26 00:00:00
-globalID: '1'
+date: 26-07-2018
+globalID: 55
 heading: 'Letters Archives - Page 17 of 1140 '
 language: en
 publisher: Daily Times
@@ -2110,8 +2110,8 @@ url: https://dailytimes.com.pk/letters/page/17/
 
 ---
 authors: null
-date: 2018-07-24 00:00:00
-globalID: '1'
+date: 24-07-2018
+globalID: 56
 heading: 'Letters Archives - Page 18 of 1140 '
 language: en
 publisher: Daily Times
@@ -2127,8 +2127,8 @@ url: https://dailytimes.com.pk/letters/page/18/
 
 ---
 authors: null
-date: 2018-07-21 00:00:00
-globalID: '1'
+date: 21-07-2018
+globalID: 57
 heading: 'Letters Archives - Page 19 of 1140 '
 language: en
 publisher: Daily Times
@@ -2144,8 +2144,8 @@ url: https://dailytimes.com.pk/letters/page/19/
 
 ---
 authors: null
-date: 2018-08-26 00:00:00
-globalID: '1'
+date: 26-08-2018
+globalID: 58
 heading: 'Letters Archives - Page 2 of 1140 '
 language: en
 publisher: Daily Times
@@ -2161,8 +2161,8 @@ url: https://dailytimes.com.pk/letters/page/2/
 
 ---
 authors: null
-date: 2018-08-22 00:00:00
-globalID: '1'
+date: 22-08-2018
+globalID: 59
 heading: 'Letters Archives - Page 3 of 1140 '
 language: en
 publisher: Daily Times
@@ -2178,8 +2178,8 @@ url: https://dailytimes.com.pk/letters/page/3/
 
 ---
 authors: null
-date: 2018-08-20 00:00:00
-globalID: '1'
+date: 20-08-2018
+globalID: 60
 heading: 'Letters Archives - Page 4 of 1140 '
 language: en
 publisher: Daily Times
@@ -2195,8 +2195,8 @@ url: https://dailytimes.com.pk/letters/page/4/
 
 ---
 authors: null
-date: 2018-08-18 00:00:00
-globalID: '1'
+date: 18-08-2018
+globalID: 61
 heading: 'Letters Archives - Page 5 of 1140 '
 language: en
 publisher: Daily Times
@@ -2212,8 +2212,8 @@ url: https://dailytimes.com.pk/letters/page/5/
 
 ---
 authors: null
-date: 2018-08-16 00:00:00
-globalID: '1'
+date: 16-08-2018
+globalID: 62
 heading: 'Letters Archives - Page 6 of 1140 '
 language: en
 publisher: Daily Times
@@ -2229,8 +2229,8 @@ url: https://dailytimes.com.pk/letters/page/6/
 
 ---
 authors: null
-date: 2018-08-14 00:00:00
-globalID: '1'
+date: 14-08-2018
+globalID: 63
 heading: 'Letters Archives - Page 7 of 1140 '
 language: en
 publisher: Daily Times
@@ -2246,8 +2246,8 @@ url: https://dailytimes.com.pk/letters/page/7/
 
 ---
 authors: null
-date: 2018-08-13 00:00:00
-globalID: '1'
+date: 13-08-2018
+globalID: 64
 heading: 'Letters Archives - Page 8 of 1140 '
 language: en
 publisher: Daily Times
@@ -2263,8 +2263,8 @@ url: https://dailytimes.com.pk/letters/page/8/
 
 ---
 authors: null
-date: 2018-08-11 00:00:00
-globalID: '1'
+date: 11-08-2018
+globalID: 65
 heading: 'Letters Archives - Page 9 of 1140 '
 language: en
 publisher: Daily Times
@@ -2281,8 +2281,8 @@ url: https://dailytimes.com.pk/letters/page/9/
 ---
 authors:
 - Khawar Ghumman
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 66
 heading: Khursheed Shah elected PAC chief
 language: en
 publisher: Dawn News
@@ -2326,8 +2326,8 @@ url: https://www.dawn.com/news/1062000
 ---
 authors:
 - The Newspaper's Staff Reporter
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 67
 heading: Amid verbal duel, CJ orders replacement of FC head
 language: en
 publisher: Dawn News
@@ -2412,8 +2412,8 @@ url: https://www.dawn.com/news/1062001
 ---
 authors:
 - Waseem Ashraf Butt
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 68
 heading: Protesters cut short  journey to PA
 language: en
 publisher: Dawn News
@@ -2453,8 +2453,8 @@ url: https://www.dawn.com/news/1062002
 ---
 authors:
 - From the Newspaper
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 69
 heading: Govt barred from deporting Indian
 language: en
 publisher: Dawn News
@@ -2483,8 +2483,8 @@ url: https://www.dawn.com/news/1062003
 ---
 authors:
 - From the Newspaper
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 70
 heading: Govt-dealers agreement
 language: en
 publisher: Dawn News
@@ -2505,8 +2505,8 @@ url: https://www.dawn.com/news/1062004
 ---
 authors:
 - From the Newspaper
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 71
 heading: Ban, Kerry call Hasina over Bangladesh poll standoff
 language: en
 publisher: Dawn News
@@ -2567,8 +2567,8 @@ url: https://www.dawn.com/news/1062005
 ---
 authors:
 - Dawn Report
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 72
 heading: Black market adds fuel to fire
 language: en
 publisher: Dawn News
@@ -2615,8 +2615,8 @@ url: https://www.dawn.com/news/1062006
 ---
 authors:
 - The Newspaper's Correspondent
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 73
 heading: Indian court criminalises gay relationships
 language: en
 publisher: Dawn News
@@ -2646,8 +2646,8 @@ url: https://www.dawn.com/news/1062007
 ---
 authors:
 - The Newspaper's Staff Reporter
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 74
 heading: IJT to hold demo outside PA today
 language: en
 publisher: Dawn News
@@ -2685,8 +2685,8 @@ url: https://www.dawn.com/news/1062008
 ---
 authors:
 - From the Newspaper
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 75
 heading: Gulf states to create joint military command
 language: en
 publisher: Dawn News
@@ -2723,8 +2723,8 @@ url: https://www.dawn.com/news/1062009
 ---
 authors:
 - The Newspaper's Staff Reporter
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 76
 heading: Gas suspension to render millions jobless
 language: en
 publisher: Dawn News
@@ -2766,8 +2766,8 @@ url: https://www.dawn.com/news/1062010
 ---
 authors:
 - From the Newspaper
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 77
 heading: SHO among 20 cops booked for murder
 language: en
 publisher: Dawn News
@@ -2795,8 +2795,8 @@ url: https://www.dawn.com/news/1062011
 ---
 authors:
 - Anwar Iqbal
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 78
 heading: "Obama\u2019s selfie goes viral"
 language: en
 publisher: Dawn News
@@ -2858,8 +2858,8 @@ url: https://www.dawn.com/news/1062012
 ---
 authors:
 - The Newspaper's Staff Reporter
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 79
 heading: Major land fraud traced
 language: en
 publisher: Dawn News
@@ -2885,8 +2885,8 @@ url: https://www.dawn.com/news/1062013
 ---
 authors:
 - From the Newspaper
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 80
 heading: Protesters in Beijing drink pesticide
 language: en
 publisher: Dawn News
@@ -2908,8 +2908,8 @@ url: https://www.dawn.com/news/1062014
 ---
 authors:
 - Shoaib Ahmed
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 81
 heading: "NPAG \u2013 optimistic bunch of choreographers in making"
 language: en
 publisher: Dawn News
@@ -2955,8 +2955,8 @@ url: https://www.dawn.com/news/1062015
 ---
 authors:
 - From the Newspaper
-date: 2013-12-12 00:00:00
-globalID: '1'
+date: 12-12-2013
+globalID: 82
 heading: US, UK suspend aid to Syrian rebels
 language: en
 publisher: Dawn News
@@ -3021,8 +3021,8 @@ url: https://www.dawn.com/news/1062016
 
 ---
 authors: The Frontier Post
-date: 2017-12-31 00:00:00
-globalID: '1'
+date: 31-12-2017
+globalID: 83
 heading: "Over 0.2m cases could not be heard due to lawyers\u2019 strikes: LHC chief\
   \ justice"
 language: en
@@ -3066,8 +3066,8 @@ url: https://thefrontierpost.com/0-2m-cases-not-heard-due-lawyers-strikes-lhc-ch
 
 ---
 authors: The Frontier Post
-date: 2018-04-26 00:00:00
-globalID: '1'
+date: 26-04-2018
+globalID: 84
 heading: 1 in 3 children still unimmunized in Afghanistan, says MoPH
 language: en
 publisher: Frontier Post
@@ -3123,8 +3123,8 @@ url: https://thefrontierpost.com/1-3-children-still-unimmunized-afghanistan-says
 
 ---
 authors: The Frontier Post
-date: 2017-08-24 00:00:00
-globalID: '1'
+date: 24-08-2017
+globalID: 85
 heading: 1.4 million pilgrims arrive in Saudi Arabia before hajj
 language: en
 publisher: Frontier Post
@@ -3161,8 +3161,8 @@ url: https://thefrontierpost.com/1-4-million-pilgrims-arrive-saudi-arabia-hajj/
 
 ---
 authors: The Frontier Post
-date: 2018-08-14 00:00:00
-globalID: '1'
+date: 14-08-2018
+globalID: 86
 heading: 1.4m Muslims arrive for Hajj
 language: en
 publisher: Frontier Post
@@ -3185,8 +3185,8 @@ url: https://thefrontierpost.com/1-4m-muslims-arrive-for-hajj/
 
 ---
 authors: The Frontier Post
-date: 2017-09-06 00:00:00
-globalID: '1'
+date: 06-09-2017
+globalID: 87
 heading: '1.5 million Children out of schools in KP: Survey report'
 language: en
 publisher: Frontier Post
@@ -3204,8 +3204,8 @@ url: https://thefrontierpost.com/1-5-million-children-schools-kp-survey-report/
 
 ---
 authors: The Frontier Post
-date: 2018-06-02 00:00:00
-globalID: '1'
+date: 02-06-2018
+globalID: 88
 heading: 1.6m children living with asthma in Pakistan
 language: en
 publisher: Frontier Post
@@ -3231,8 +3231,8 @@ url: https://thefrontierpost.com/1-6m-children-living-with-asthma-in-pakistan/
 
 ---
 authors: The Frontier Post
-date: 2017-11-30 00:00:00
-globalID: '1'
+date: 30-11-2017
+globalID: 89
 heading: 2.0 movie of Rajni Kanth, Akshay Kumar to be release in mid April
 language: en
 publisher: Frontier Post
@@ -3250,8 +3250,8 @@ url: https://thefrontierpost.com/2-0-movie-rajni-kanth-akshay-kumar-release-mid-
 
 ---
 authors: The Frontier Post
-date: 2018-05-23 00:00:00
-globalID: '1'
+date: 23-05-2018
+globalID: 90
 heading: '2.3m people registered as voters: IEC'
 language: en
 publisher: Frontier Post
@@ -3279,8 +3279,8 @@ url: https://thefrontierpost.com/2-3m-people-registered-as-voters-iec/
 
 ---
 authors: The Frontier Post
-date: 2018-04-29 00:00:00
-globalID: '1'
+date: 29-04-2018
+globalID: 91
 heading: 2 ANA troops, 8 Taliban killed
 language: en
 publisher: Frontier Post
@@ -3299,8 +3299,8 @@ url: https://thefrontierpost.com/2-ana-troops-8-taliban-killed/
 
 ---
 authors: The Frontier Post
-date: 2018-03-20 00:00:00
-globalID: '1'
+date: 20-03-2018
+globalID: 92
 heading: 2 cops, 3 Taliban killed in gunfight
 language: en
 publisher: Frontier Post
@@ -3319,8 +3319,8 @@ url: https://thefrontierpost.com/2-cops-3-taliban-killed-gunfight/
 
 ---
 authors: The Frontier Post
-date: 2018-04-11 00:00:00
-globalID: '1'
+date: 11-04-2018
+globalID: 93
 heading: 2 cops gunned down in Kandahar
 language: en
 publisher: Frontier Post
@@ -3338,8 +3338,8 @@ url: https://thefrontierpost.com/2-cops-gunned-kandahar/
 
 ---
 authors: The Frontier Post
-date: 2017-08-03 00:00:00
-globalID: '1'
+date: 03-08-2017
+globalID: 94
 heading: 2 dead, 9 injured in US school explosion
 language: en
 publisher: Frontier Post
@@ -3379,8 +3379,8 @@ url: https://thefrontierpost.com/2-dead-9-injured-us-school-explosion/
 
 ---
 authors: The Frontier Post
-date: 2018-04-05 00:00:00
-globalID: '1'
+date: 05-04-2018
+globalID: 95
 heading: 2 die, two injured in road accidents
 language: en
 publisher: Frontier Post
@@ -3398,8 +3398,8 @@ url: https://thefrontierpost.com/2-die-two-injured-road-accidents/
 
 ---
 authors: The Frontier Post
-date: 2018-05-26 00:00:00
-globalID: '1'
+date: 26-05-2018
+globalID: 96
 heading: 2 French ex-spies probed, charged for treason
 language: en
 publisher: Frontier Post
@@ -3431,8 +3431,8 @@ url: https://thefrontierpost.com/2-french-ex-spies-probed-charged-for-treason/
 
 ---
 authors: The Frontier Post
-date: 2018-05-22 00:00:00
-globalID: '1'
+date: 22-05-2018
+globalID: 97
 heading: 2 hurt in voter registration centre blast
 language: en
 publisher: Frontier Post
@@ -3450,8 +3450,8 @@ url: https://thefrontierpost.com/2-hurt-in-voter-registration-centre-blast/
 
 ---
 authors: The Frontier Post
-date: 2017-07-16 00:00:00
-globalID: '1'
+date: 16-07-2017
+globalID: 98
 heading: 2 Iranian civilians killed in alleged cross-border attack
 language: en
 publisher: Frontier Post
@@ -3479,8 +3479,8 @@ url: https://thefrontierpost.com/2-iranian-civilians-killed-alleged-cross-border
 
 ---
 authors: The Frontier Post
-date: 2018-05-18 00:00:00
-globalID: '1'
+date: 18-05-2018
+globalID: 99
 heading: 2 killed, 3 injured in firing over domestic disputes
 language: en
 publisher: Frontier Post
@@ -3498,8 +3498,8 @@ url: https://thefrontierpost.com/2-killed-3-injured-in-firing-over-domestic-disp
 
 ---
 authors: The Frontier Post
-date: 2017-07-30 00:00:00
-globalID: '1'
+date: 30-07-2017
+globalID: 100
 heading: 2 killed in South Africa football stadium stampede
 language: en
 publisher: Frontier Post
@@ -3524,8 +3524,8 @@ url: https://thefrontierpost.com/2-killed-south-africa-football-stadium-stampede
 
 ---
 authors: The Frontier Post
-date: 2018-04-01 00:00:00
-globalID: '1'
+date: 01-04-2018
+globalID: 101
 heading: 'Islam is a religion of peace and tolerance: Pasroori'
 language: en
 publisher: Frontier Post
@@ -3554,8 +3554,8 @@ url: https://thefrontierpost.com/islam-religion-peace-tolerance-pasroori/
 
 ---
 authors: The Frontier Post
-date: 2017-06-26 00:00:00
-globalID: '1'
+date: 26-06-2017
+globalID: 102
 heading: Islamabad
 language: en
 publisher: Frontier Post
@@ -3567,8 +3567,8 @@ url: https://thefrontierpost.com/islamabad/
 
 ---
 authors: The Frontier Post
-date: 2017-11-27 00:00:00
-globalID: '1'
+date: 27-11-2017
+globalID: 103
 heading: "Islamabad administration conducted Faizabad operation on high court\u2019\
   s order: Ahsan Iqbal"
 language: en
@@ -3589,8 +3589,8 @@ url: https://thefrontierpost.com/islamabad-administration-conducted-faizabad-ope
 
 ---
 authors: The Frontier Post
-date: 2017-12-24 00:00:00
-globalID: '1'
+date: 24-12-2017
+globalID: 104
 heading: Islamabad administration to request interior ministry to put Qadri on ECL
 language: en
 publisher: Frontier Post
@@ -3622,8 +3622,8 @@ url: https://thefrontierpost.com/islamabad-administration-request-interior-minis
 
 ---
 authors: The Frontier Post
-date: 2018-07-23 00:00:00
-globalID: '1'
+date: 23-07-2018
+globalID: 105
 heading: Islamabad court hears Imran Khan disqualification petition
 language: en
 publisher: Frontier Post
@@ -3643,8 +3643,8 @@ url: https://thefrontierpost.com/islamabad-court-hears-imran-khan-disqualificati
 
 ---
 authors: The Frontier Post
-date: 2018-01-02 00:00:00
-globalID: '1'
+date: 02-01-2018
+globalID: 106
 heading: Islamabad, Delhi, exchange list of nuclear installations
 language: en
 publisher: Frontier Post
@@ -3666,8 +3666,8 @@ url: https://thefrontierpost.com/islamabad-delhi-exchange-list-nuclear-installat
 
 ---
 authors: The Frontier Post
-date: 2018-02-02 00:00:00
-globalID: '1'
+date: 02-02-2018
+globalID: 107
 heading: "\u2018Islamabad, Kabul can fight war against terror\u2019"
 language: en
 publisher: Frontier Post
@@ -3690,8 +3690,8 @@ url: https://thefrontierpost.com/islamabad-kabul-can-fight-war-terror/
 
 ---
 authors: The Frontier Post
-date: 2017-11-28 00:00:00
-globalID: '1'
+date: 28-11-2017
+globalID: 108
 heading: 'Islamabad operation initiated without the consent of political leadership:
   Iqbal'
 language: en
@@ -3715,8 +3715,8 @@ url: https://thefrontierpost.com/islamabad-operation-initiated-without-consent-p
 
 ---
 authors: The Frontier Post
-date: 2018-03-24 00:00:00
-globalID: '1'
+date: 24-03-2018
+globalID: 109
 heading: Islamabad, Peshawar eye second title in historic Karachi clash
 language: en
 publisher: Frontier Post
@@ -3774,8 +3774,8 @@ url: https://thefrontierpost.com/islamabad-peshawar-eye-second-title-historic-ka
 
 ---
 authors: The Frontier Post
-date: 2017-12-22 00:00:00
-globalID: '1'
+date: 22-12-2017
+globalID: 110
 heading: Islamabad police prepares security plan for Christmas
 language: en
 publisher: Frontier Post
@@ -3814,8 +3814,8 @@ url: https://thefrontierpost.com/islamabad-police-prepares-security-plan-christm
 
 ---
 authors: The Frontier Post
-date: 2017-11-26 00:00:00
-globalID: '1'
+date: 26-11-2017
+globalID: 111
 heading: 'Islamabad protest: education institutes to remain closed on Monday and Tuesday
   in Punjab'
 language: en
@@ -3835,8 +3835,8 @@ url: https://thefrontierpost.com/islamabad-protest-education-institutes-remain-c
 
 ---
 authors: The Frontier Post
-date: 2017-11-17 00:00:00
-globalID: '1'
+date: 17-11-2017
+globalID: 112
 heading: 'Islamabad protest: IHC orders local admin to clear protesters by tomorrow'
 language: en
 publisher: Frontier Post
@@ -3863,8 +3863,8 @@ url: https://thefrontierpost.com/islamabad-protest-ihc-orders-local-admin-clear-
 
 ---
 authors: The Frontier Post
-date: 2017-11-26 00:00:00
-globalID: '1'
+date: 26-11-2017
+globalID: 113
 heading: 'Islamabad protest: PTI demands immediate resignation of Interior minister'
 language: en
 publisher: Frontier Post
@@ -3890,8 +3890,8 @@ url: https://thefrontierpost.com/islamabad-protest-pti-demands-immediate-resigna
 
 ---
 authors: The Frontier Post
-date: 2017-11-25 00:00:00
-globalID: '1'
+date: 25-11-2017
+globalID: 114
 heading: 'Protesters are being used in an international conspiracy: Ahsan Iqbal'
 language: en
 publisher: Frontier Post
@@ -3927,8 +3927,8 @@ url: https://thefrontierpost.com/islamabad-protesters-contacted-india-claims-int
 ---
 authors:
 - AFP
-date: 2015-02-19 00:00:00
-globalID: '1'
+date: 19-02-2015
+globalID: 115
 heading: Minor girl tortured by employers in Lahore
 language: en
 publisher: Geo News
@@ -3954,8 +3954,8 @@ url: https://www.geo.tv/latest/1081-minor-girl-tortured-by-employers-in-lahore
 ---
 authors:
 - AFP
-date: 2015-02-19 00:00:00
-globalID: '1'
+date: 19-02-2015
+globalID: 116
 heading: Minor girl tortured by employers in Lahore
 language: en
 publisher: Geo News
@@ -3981,8 +3981,8 @@ url: https://www.geo.tv/latest/1081
 ---
 authors:
 - Murtaza Ali Shah
-date: 2015-02-24 00:00:00
-globalID: '1'
+date: 24-02-2015
+globalID: 117
 heading: Saeed Ajmal signs lucrative contract with Worcestershire
 language: en
 publisher: Geo News
@@ -4032,8 +4032,8 @@ url: https://www.geo.tv/latest/1211-saeed-ajmal-signs-lucrative-contract-with-wo
 ---
 authors:
 - Murtaza Ali Shah
-date: 2015-02-24 00:00:00
-globalID: '1'
+date: 24-02-2015
+globalID: 118
 heading: Saeed Ajmal signs lucrative contract with Worcestershire
 language: en
 publisher: Geo News
@@ -4083,8 +4083,8 @@ url: https://www.geo.tv/latest/1211
 ---
 authors:
 - Faizan Lakhani
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 119
 heading: 'PSL final should be held in Lahore: Amir Khan'
 language: en
 publisher: Geo News
@@ -4114,8 +4114,8 @@ url: https://www.geo.tv/latest/132252-PSL-final-should-be-held-in-Lahore-Amir-Kh
 ---
 authors:
 - Faizan Lakhani
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 120
 heading: 'PSL final should be held in Lahore: Amir Khan'
 language: en
 publisher: Geo News
@@ -4145,8 +4145,8 @@ url: https://www.geo.tv/latest/132252
 ---
 authors:
 - Abdul Qayyum Siddiqui
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 121
 heading: CJP takes notice of woman trafficking case in Rawalpindi
 language: en
 publisher: Geo News
@@ -4197,8 +4197,8 @@ url: https://www.geo.tv/latest/132254-CJP-takes-notice-of-woman-trafficking-case
 ---
 authors:
 - Abdul Qayyum Siddiqui
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 122
 heading: CJP takes notice of woman trafficking case in Rawalpindi
 language: en
 publisher: Geo News
@@ -4249,8 +4249,8 @@ url: https://www.geo.tv/latest/132254
 ---
 authors:
 - Nausheen Yusuf
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 123
 heading: 'Sharjeel, Latif and Irfan met bookies, did not inform board: PCB Chairman'
 language: en
 publisher: Geo News
@@ -4285,8 +4285,8 @@ url: https://www.geo.tv/latest/132256-Sharjeel-Latif-and-Irfan-met-bookies-did-n
 ---
 authors:
 - Nausheen Yusuf
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 124
 heading: 'Sharjeel, Latif and Irfan met bookies, did not inform board: PCB Chairman'
 language: en
 publisher: Geo News
@@ -4321,8 +4321,8 @@ url: https://www.geo.tv/latest/132256
 ---
 authors:
 - Tariq Moin Siddiqui
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 125
 heading: 'Sixth Census 2017: Why leaders are fearful'
 language: en
 publisher: Geo News
@@ -4410,8 +4410,8 @@ url: https://www.geo.tv/latest/132271-Sixth-Census-2017-Why-leaders-are-fearful
 ---
 authors:
 - Tariq Moin Siddiqui
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 126
 heading: 'Sixth Census 2017: Why leaders are fearful'
 language: en
 publisher: Geo News
@@ -4499,8 +4499,8 @@ url: https://www.geo.tv/latest/132271
 ---
 authors:
 - Khalid Hameed Farooqi
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 127
 heading: 'Migrant torture and trauma victims overlooked by member states: EU report'
 language: en
 publisher: Geo News
@@ -4551,8 +4551,8 @@ url: https://www.geo.tv/latest/132274-Migrant-torture-and-trauma-victims-overloo
 ---
 authors:
 - Khalid Hameed Farooqi
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 128
 heading: 'Migrant torture and trauma victims overlooked by member states: EU report'
 language: en
 publisher: Geo News
@@ -4603,8 +4603,8 @@ url: https://www.geo.tv/latest/132274
 ---
 authors:
 - Faizan Lakhani
-date: 2017-02-25 00:00:00
-globalID: '1'
+date: 25-02-2017
+globalID: 129
 heading: Birthday boy Sami bowls United to stunning one-run win
 language: en
 publisher: Geo News
@@ -4639,8 +4639,8 @@ url: https://www.geo.tv/latest/132281-Birthday-boy-Sami-bowls-United-to-thrillin
 ---
 authors:
 - Faizan Lakhani
-date: 2017-02-25 00:00:00
-globalID: '1'
+date: 25-02-2017
+globalID: 130
 heading: Birthday boy Sami bowls United to stunning one-run win
 language: en
 publisher: Geo News
@@ -4675,8 +4675,8 @@ url: https://www.geo.tv/latest/132281
 ---
 authors:
 - Mian Muhammad Abid
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 131
 heading: NCA Lahore closed for a week, students asked to immediately vacate hostels
 language: en
 publisher: Geo News
@@ -4707,8 +4707,8 @@ url: https://www.geo.tv/latest/132300-NCA-Lahore-closed-for-a-week-students-aske
 ---
 authors:
 - Mian Muhammad Abid
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 132
 heading: NCA Lahore closed for a week, students asked to immediately vacate hostels
 language: en
 publisher: Geo News
@@ -4739,8 +4739,8 @@ url: https://www.geo.tv/latest/132300
 ---
 authors:
 - Faizan Lakhani
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 133
 heading: Momina Mustehsan comes out in favour of PSL for women cricketers
 language: en
 publisher: Geo News
@@ -4772,8 +4772,8 @@ url: https://www.geo.tv/latest/132324-Momina-Mustehsan-comes-out-in-favour-of-PS
 ---
 authors:
 - Faizan Lakhani
-date: 2017-02-24 00:00:00
-globalID: '1'
+date: 24-02-2017
+globalID: 134
 heading: Momina Mustehsan comes out in favour of PSL for women cricketers
 language: en
 publisher: Geo News
@@ -4805,8 +4805,8 @@ url: https://www.geo.tv/latest/132324
 ---
 authors:
 - Faizan Lakhani
-date: 2017-02-25 00:00:00
-globalID: '1'
+date: 25-02-2017
+globalID: 135
 heading: "Sami is a \u2018proven match winner\u2019, says Misbah"
 language: en
 publisher: Geo News
@@ -4835,8 +4835,8 @@ url: https://www.geo.tv/latest/132333-Sami-is-a-proven-match-winner-says-Misbah
 ---
 authors:
 - Faizan Lakhani
-date: 2017-02-25 00:00:00
-globalID: '1'
+date: 25-02-2017
+globalID: 136
 heading: "Sami is a \u2018proven match winner\u2019, says Misbah"
 language: en
 publisher: Geo News
@@ -4865,8 +4865,8 @@ url: https://www.geo.tv/latest/132333
 ---
 authors:
 - Faizan Lakhani
-date: 2017-02-25 00:00:00
-globalID: '1'
+date: 25-02-2017
+globalID: 137
 heading: 'PSL for women will benefit national cricket: Pak t20 captain Bismah Maroof'
 language: en
 publisher: Geo News
@@ -4884,8 +4884,8 @@ url: https://www.geo.tv/latest/132334-Women-PSL-will-benefit-national-cricket-Pa
 ---
 authors:
 - Faizan Lakhani
-date: 2017-02-25 00:00:00
-globalID: '1'
+date: 25-02-2017
+globalID: 138
 heading: 'PSL for women will benefit national cricket: Pak t20 captain Bismah Maroof'
 language: en
 publisher: Geo News
@@ -4903,8 +4903,8 @@ url: https://www.geo.tv/latest/132334
 ---
 authors:
 - Ashar Zaidi
-date: 2015-03-03 00:00:00
-globalID: '1'
+date: 03-03-2015
+globalID: 139
 heading: 'BLOG: The 2 W''s, decades old wounds still spilling blood.'
 language: en
 publisher: Geo News
@@ -4983,8 +4983,8 @@ url: https://www.geo.tv/latest/1351-blog-the-2-w-s-decades-old-wounds-still-spil
 ---
 authors:
 - Ashar Zaidi
-date: 2015-03-03 00:00:00
-globalID: '1'
+date: 03-03-2015
+globalID: 140
 heading: 'BLOG: The 2 W''s, decades old wounds still spilling blood.'
 language: en
 publisher: Geo News
@@ -5063,8 +5063,8 @@ url: https://www.geo.tv/latest/1351
 ---
 authors:
 - Ashar Zaidi
-date: 2015-03-06 00:00:00
-globalID: '1'
+date: 06-03-2015
+globalID: 141
 heading: 'Top 5 moments: Pakistan vs South Africa'
 language: en
 publisher: Geo News
@@ -5140,8 +5140,8 @@ url: https://www.geo.tv/latest/1423-top-5-moments-pakistan-vs-south-africa
 ---
 authors:
 - Ashar Zaidi
-date: 2015-03-06 00:00:00
-globalID: '1'
+date: 06-03-2015
+globalID: 142
 heading: 'Top 5 moments: Pakistan vs South Africa'
 language: en
 publisher: Geo News
@@ -5217,8 +5217,8 @@ url: https://www.geo.tv/latest/1423
 ---
 authors:
 - Ashar Zaidi
-date: 2015-03-08 00:00:00
-globalID: '1'
+date: 08-03-2015
+globalID: 143
 heading: Are you happy now coach?
 language: en
 publisher: Geo News
@@ -5295,8 +5295,8 @@ url: https://www.geo.tv/latest/1458-are-you-happy-now-coach
 ---
 authors:
 - Ashar Zaidi
-date: 2015-03-08 00:00:00
-globalID: '1'
+date: 08-03-2015
+globalID: 144
 heading: Are you happy now coach?
 language: en
 publisher: Geo News
@@ -5373,8 +5373,8 @@ url: https://www.geo.tv/latest/1458
 ---
 authors:
 - Ashar Zaidi
-date: 2015-03-13 00:00:00
-globalID: '1'
+date: 13-03-2015
+globalID: 145
 heading: Miracle on a green pitch, the story of Pakistan's greatest ODI disaster
 language: en
 publisher: Geo News
@@ -5474,8 +5474,8 @@ url: https://www.geo.tv/latest/1585-miracle-on-a-green-pitch-the-story-of-pakist
 ---
 authors:
 - REUTERS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 146
 heading: China's Su becomes Asia's fastest man in Asian Games record time
 language: en
 publisher: Geo News
@@ -5531,8 +5531,8 @@ url: https://www.geo.tv/latest/208747
 ---
 authors:
 - Manzoor uddin
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 147
 heading: Five of family killed as car collides with coaster in Karak
 language: en
 publisher: Geo News
@@ -5563,8 +5563,8 @@ url: https://www.geo.tv/latest/208748-five-of-family-killed-as-car-collides-with
 ---
 authors:
 - Manzoor uddin
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 148
 heading: Five of family killed as car collides with coaster in Karak
 language: en
 publisher: Geo News
@@ -5595,8 +5595,8 @@ url: https://www.geo.tv/latest/208748
 ---
 authors:
 - Web Desk
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 149
 heading: SC gives six more weeks to conclude remaining references against Sharifs
 language: en
 publisher: Geo News
@@ -5632,8 +5632,8 @@ url: https://www.geo.tv/latest/208749-sc-gives-six-more-weeks-to-conclude-remain
 ---
 authors:
 - Web Desk
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 150
 heading: SC gives six more weeks to conclude remaining references against Sharifs
 language: en
 publisher: Geo News
@@ -5669,8 +5669,8 @@ url: https://www.geo.tv/latest/208749
 ---
 authors:
 - AFP
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 151
 heading: Iran to open lawsuit against US sanctions at ICJ
 language: en
 publisher: Geo News
@@ -5718,8 +5718,8 @@ url: https://www.geo.tv/latest/208752-iran-to-open-lawsuit-against-us-sanctions-
 ---
 authors:
 - AFP
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 152
 heading: Iran to open lawsuit against US sanctions at ICJ
 language: en
 publisher: Geo News
@@ -5767,8 +5767,8 @@ url: https://www.geo.tv/latest/208752
 ---
 authors:
 - REUTERS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 153
 heading: Investors to get their say after Musk scuttles Tesla buyout
 language: en
 publisher: Geo News
@@ -5816,8 +5816,8 @@ url: https://www.geo.tv/latest/208754-investors-to-get-their-say-after-musk-scut
 ---
 authors:
 - REUTERS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 154
 heading: Investors to get their say after Musk scuttles Tesla buyout
 language: en
 publisher: Geo News
@@ -5865,8 +5865,8 @@ url: https://www.geo.tv/latest/208754
 ---
 authors:
 - Web Desk
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 155
 heading: New Punjab cabinet to be sworn in today
 language: en
 publisher: Geo News
@@ -5896,8 +5896,8 @@ url: https://www.geo.tv/latest/208757-new-punjab-cabinet-to-be-sworn-in-today
 ---
 authors:
 - Web Desk
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 156
 heading: New Punjab cabinet to be sworn in today
 language: en
 publisher: Geo News
@@ -5927,8 +5927,8 @@ url: https://www.geo.tv/latest/208757
 ---
 authors:
 - REUTERS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 157
 heading: Prominent Iranian human rights lawyer announces hunger strike in prison
 language: en
 publisher: Geo News
@@ -5961,8 +5961,8 @@ url: https://www.geo.tv/latest/208759-prominent-iranian-human-rights-lawyer-anno
 ---
 authors:
 - REUTERS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 158
 heading: Prominent Iranian human rights lawyer announces hunger strike in prison
 language: en
 publisher: Geo News
@@ -5995,8 +5995,8 @@ url: https://www.geo.tv/latest/208759
 ---
 authors:
 - REUTERS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 159
 heading: Half the world's schools lack clean water, toilets and handwashing
 language: en
 publisher: Geo News
@@ -6043,8 +6043,8 @@ url: https://www.geo.tv/latest/208762-half-the-worlds-schools-lack-clean-water-t
 ---
 authors:
 - REUTERS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 160
 heading: Half the world's schools lack clean water, toilets and handwashing
 language: en
 publisher: Geo News
@@ -6091,8 +6091,8 @@ url: https://www.geo.tv/latest/208762
 ---
 authors:
 - REUTERS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 161
 heading: 'Tajik or Russian plane bombed Afghan border area in Takhar province: official'
 language: en
 publisher: Geo News
@@ -6111,8 +6111,8 @@ url: https://www.geo.tv/latest/208763-tajik-or-russian-plane-bombed-afghan-borde
 ---
 authors:
 - REUTERS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 162
 heading: 'Tajik or Russian plane bombed Afghan border area in Takhar province: official'
 language: en
 publisher: Geo News
@@ -6131,8 +6131,8 @@ url: https://www.geo.tv/latest/208763
 ---
 authors:
 - AFP
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 163
 heading: Four questions on Iran's legal challenge to US sanctions
 language: en
 publisher: Geo News
@@ -6188,8 +6188,8 @@ url: https://www.geo.tv/latest/208764-four-questions-on-irans-legal-challenge-to
 ---
 authors:
 - AFP
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 164
 heading: Four questions on Iran's legal challenge to US sanctions
 language: en
 publisher: Geo News
@@ -6245,8 +6245,8 @@ url: https://www.geo.tv/latest/208764
 ---
 authors:
 - AFP
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 165
 heading: Over 1,200 people killed in South Asia monsoon
 language: en
 publisher: Geo News
@@ -6278,8 +6278,8 @@ url: https://www.geo.tv/latest/208773-over-1200-people-killed-in-south-asia-mons
 ---
 authors:
 - AFP
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 166
 heading: Over 1,200 people killed in South Asia monsoon
 language: en
 publisher: Geo News
@@ -6311,8 +6311,8 @@ url: https://www.geo.tv/latest/208773
 ---
 authors:
 - AFP
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 167
 heading: 'Myanmar army chief must be prosecuted for Rohingya ''genocide'': UN probe'
 language: en
 publisher: Geo News
@@ -6356,8 +6356,8 @@ url: https://www.geo.tv/latest/208774-myanmar-army-chief-must-be-prosecuted-for-
 ---
 authors:
 - AFP
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 168
 heading: 'Myanmar army chief must be prosecuted for Rohingya ''genocide'': UN probe'
 language: en
 publisher: Geo News
@@ -6401,8 +6401,8 @@ url: https://www.geo.tv/latest/208774
 ---
 authors:
 - GEO NEWS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 169
 heading: Opposition lambasts PPP for failure to field joint presidential candidate
 language: en
 publisher: Geo News
@@ -6438,8 +6438,8 @@ url: https://www.geo.tv/latest/208775-opposition-lambasts-ppp-for-failure-to-fie
 ---
 authors:
 - GEO NEWS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 170
 heading: Opposition lambasts PPP for failure to field joint presidential candidate
 language: en
 publisher: Geo News
@@ -6475,8 +6475,8 @@ url: https://www.geo.tv/latest/208775
 ---
 authors:
 - Web Desk
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 171
 heading: Army chief extends condolences on 'friend of Pakistan' John McCain's death
 language: en
 publisher: Geo News
@@ -6508,8 +6508,8 @@ url: https://www.geo.tv/latest/208777-army-chief-extends-condolences-on-friend-o
 ---
 authors:
 - GEO NEWS
-date: 2018-08-27 00:00:00
-globalID: '1'
+date: 27-08-2018
+globalID: 172
 heading: Pakistan to raise objections to Indian water projects on Chenab River
 language: en
 publisher: Geo News
@@ -6541,8 +6541,8 @@ url: https://www.geo.tv/latest/208779-pakistan-to-raise-objections-on-indian-wat
 ---
 authors:
 - Murtaza Ali Shah
-date: 2015-01-16 00:00:00
-globalID: '1'
+date: 16-01-2015
+globalID: 173
 heading: 'Indian border violations, distracting Pakistan from task at hand: Bajwa'
 language: en
 publisher: Geo News
@@ -6643,8 +6643,8 @@ url: https://www.geo.tv/latest/277-indian-border-violations-distracting-pakistan
 ---
 authors:
 - Murtaza Ali Shah
-date: 2015-01-16 00:00:00
-globalID: '1'
+date: 16-01-2015
+globalID: 174
 heading: 'Indian border violations, distracting Pakistan from task at hand: Bajwa'
 language: en
 publisher: Geo News
@@ -6745,8 +6745,8 @@ url: https://www.geo.tv/latest/277
 ---
 authors:
 - Azaz Syed
-date: 2015-01-16 00:00:00
-globalID: '1'
+date: 16-01-2015
+globalID: 175
 heading: Pakistan to audit $230 million US Anti-Terror fund
 language: en
 publisher: Geo News
@@ -6771,8 +6771,8 @@ url: https://www.geo.tv/latest/302-pakistan-to-audit-230-million-us-anti-terror-
 ---
 authors:
 - Azaz Syed
-date: 2015-01-16 00:00:00
-globalID: '1'
+date: 16-01-2015
+globalID: 176
 heading: Pakistan to audit $230 million US Anti-Terror fund
 language: en
 publisher: Geo News
@@ -6797,8 +6797,8 @@ url: https://www.geo.tv/latest/302
 ---
 authors:
 - Azaz Syed
-date: 2015-01-20 00:00:00
-globalID: '1'
+date: 20-01-2015
+globalID: 177
 heading: Islamabad police identify 198 suspected Ghazi force militants
 language: en
 publisher: Geo News
@@ -6822,8 +6822,8 @@ url: https://www.geo.tv/latest/399-islamabad-police-identify-198-suspected-ghazi
 ---
 authors:
 - Azaz Syed
-date: 2015-01-20 00:00:00
-globalID: '1'
+date: 20-01-2015
+globalID: 178
 heading: Islamabad police identify 198 suspected Ghazi force militants
 language: en
 publisher: Geo News
@@ -6847,8 +6847,8 @@ url: https://www.geo.tv/latest/399
 ---
 authors:
 - Azaz Syed
-date: 2015-01-21 00:00:00
-globalID: '1'
+date: 21-01-2015
+globalID: 179
 heading: Death penalty or life, for killing in the name of honour
 language: en
 publisher: Geo News
@@ -6873,8 +6873,8 @@ url: https://www.geo.tv/latest/414-death-penalty-or-life-for-killing-in-the-name
 ---
 authors:
 - Azaz Syed
-date: 2015-01-21 00:00:00
-globalID: '1'
+date: 21-01-2015
+globalID: 180
 heading: Death penalty or life, for killing in the name of honour
 language: en
 publisher: Geo News
@@ -6899,8 +6899,8 @@ url: https://www.geo.tv/latest/414
 ---
 authors:
 - Ashar Zaidi
-date: 2015-01-22 00:00:00
-globalID: '1'
+date: 22-01-2015
+globalID: 181
 heading: 'World Cup 2015: 11 players who will be missed'
 language: en
 publisher: Geo News
@@ -6987,8 +6987,8 @@ url: https://www.geo.tv/latest/422-world-cup-2015-11-players-who-will-be-missed
 ---
 authors:
 - Ashar Zaidi
-date: 2015-01-22 00:00:00
-globalID: '1'
+date: 22-01-2015
+globalID: 182
 heading: 'World Cup 2015: 11 players who will be missed'
 language: en
 publisher: Geo News
@@ -7075,8 +7075,8 @@ url: https://www.geo.tv/latest/422
 ---
 authors:
 - Ashar Zaidi
-date: 2015-01-30 00:00:00
-globalID: '1'
+date: 30-01-2015
+globalID: 183
 heading: 'World Cup History: 5 sparkling performances that bit the dust'
 language: en
 publisher: Geo News
@@ -7179,8 +7179,8 @@ url: https://www.geo.tv/latest/603-world-cup-history-5-sparkling-performances-th
 ---
 authors:
 - Ashar Zaidi
-date: 2015-01-30 00:00:00
-globalID: '1'
+date: 30-01-2015
+globalID: 184
 heading: 'World Cup History: 5 sparkling performances that bit the dust'
 language: en
 publisher: Geo News
@@ -7283,8 +7283,8 @@ url: https://www.geo.tv/latest/603
 ---
 authors:
 - Syed Arfeen
-date: 2015-01-31 00:00:00
-globalID: '1'
+date: 31-01-2015
+globalID: 185
 heading: Banned terrorist outfits trying to establish network in Interior Sindh
 language: en
 publisher: Geo News
@@ -7331,8 +7331,8 @@ url: https://www.geo.tv/latest/634-banned-terrorist-outfits-trying-to-establish-
 ---
 authors:
 - Syed Arfeen
-date: 2015-01-31 00:00:00
-globalID: '1'
+date: 31-01-2015
+globalID: 186
 heading: Banned terrorist outfits trying to establish network in Interior Sindh
 language: en
 publisher: Geo News
@@ -7379,8 +7379,8 @@ url: https://www.geo.tv/latest/634
 ---
 authors:
 - AFP
-date: 2015-01-05 00:00:00
-globalID: '1'
+date: 05-01-2015
+globalID: 187
 heading: Pakistan faced with two commonest forms of malnutrition
 language: en
 publisher: Geo News
@@ -7421,8 +7421,8 @@ url: https://www.geo.tv/latest/77-pakistan-faced-with-two-commonest-forms-of-mal
 ---
 authors:
 - AFP
-date: 2015-01-05 00:00:00
-globalID: '1'
+date: 05-01-2015
+globalID: 188
 heading: Pakistan faced with two commonest forms of malnutrition
 language: en
 publisher: Geo News
@@ -7463,8 +7463,8 @@ url: https://www.geo.tv/latest/77
 ---
 authors:
 - Syed Arfeen
-date: 2015-02-13 00:00:00
-globalID: '1'
+date: 13-02-2015
+globalID: 189
 heading: Undeniable similarities between Mosque and APS attacks
 language: en
 publisher: Geo News
@@ -7504,8 +7504,8 @@ url: https://www.geo.tv/latest/941-undeniable-similarities-between-mosque-and-ap
 ---
 authors:
 - Syed Arfeen
-date: 2015-02-13 00:00:00
-globalID: '1'
+date: 13-02-2015
+globalID: 190
 heading: Undeniable similarities between Mosque and APS attacks
 language: en
 publisher: Geo News
@@ -7545,8 +7545,8 @@ url: https://www.geo.tv/latest/941
 ---
 authors:
 - Ashar Zaidi
-date: 2015-02-14 00:00:00
-globalID: '1'
+date: 14-02-2015
+globalID: 191
 heading: Twinkle twinkle little star, who will be the Sunday Star?
 language: en
 publisher: Geo News
@@ -7614,8 +7614,8 @@ url: https://www.geo.tv/latest/952-twinkle-twinkle-little-star-who-will-be-the-s
 ---
 authors:
 - Ashar Zaidi
-date: 2015-02-14 00:00:00
-globalID: '1'
+date: 14-02-2015
+globalID: 192
 heading: Twinkle twinkle little star, who will be the Sunday Star?
 language: en
 publisher: Geo News
@@ -7683,8 +7683,8 @@ url: https://www.geo.tv/latest/952
 ---
 authors:
 - Syed Arfeen
-date: 2015-02-16 00:00:00
-globalID: '1'
+date: 16-02-2015
+globalID: 193
 heading: Usman Saifullah Kurd; a reign of sectarian terror
 language: en
 publisher: Geo News
@@ -7749,8 +7749,8 @@ url: https://www.geo.tv/latest/994-usman-saifullah-kurd-a-reign-of-sectarian-ter
 ---
 authors:
 - Syed Arfeen
-date: 2015-02-16 00:00:00
-globalID: '1'
+date: 16-02-2015
+globalID: 194
 heading: Usman Saifullah Kurd; a reign of sectarian terror
 language: en
 publisher: Geo News
@@ -7816,7 +7816,7 @@ url: https://www.geo.tv/latest/994
 authors:
 - Web Desk
 date: March 12, 2016
-globalID: '1'
+globalID: 195
 heading: Shahbaz Taseer back on twitter after release
 language: en
 publisher: The News
@@ -7841,7 +7841,7 @@ url: https://www.thenews.com.pk/latest/104714-Shahbaz-Taseer-back-on-twitter-aft
 authors:
 - Murtaza Ali Shah
 date: March 14, 2016
-globalID: '1'
+globalID: 196
 heading: Sarfraz Merchant refuses to appear before FIA on March 15
 language: en
 publisher: The News
@@ -7930,7 +7930,7 @@ url: https://www.thenews.com.pk/latest/105196-Sarfraz-Merchant-refuses-to-appear
 authors:
 - Faisal Ali Raja
 date: March 16, 2016
-globalID: '1'
+globalID: 197
 heading: "Stats back Pakistan to avenge Asia Cup defeat against Bangladesh  \_"
 language: en
 publisher: The News
@@ -7966,7 +7966,7 @@ url: https://www.thenews.com.pk/latest/105712-Stats-back-Pakistan-to-avenge-Asia
 authors:
 - Raja Zahid
 date: April 1, 2016
-globalID: '1'
+globalID: 198
 heading: 'US: Folk singers attend Pakistan Day celebrations in Dallas'
 language: en
 publisher: The News
@@ -8004,7 +8004,7 @@ url: https://www.thenews.com.pk/latest/109598-US-Folk-singers-attend-Pakistan-Da
 authors:
 - Nadeem Ahmed
 date: April 10, 2016
-globalID: '1'
+globalID: 199
 heading: 'Punjab: Woman set on fire in Burewal'
 language: en
 publisher: The News
@@ -8028,7 +8028,7 @@ url: https://www.thenews.com.pk/latest/111683-Punjab-Woman-set-on-fire-in-Burewa
 authors:
 - Muhammad Nasir
 date: April 17, 2016
-globalID: '1'
+globalID: 200
 heading: "SRK \u2018Fan\u2019 breaks records, earns 50 crore in just two days"
 language: en
 publisher: The News
@@ -8072,7 +8072,7 @@ url: https://www.thenews.com.pk/latest/113377-SRK-Fan-breaks-records-earns-50-cr
 authors:
 - Raja Zahid
 date: April 21, 2016
-globalID: '1'
+globalID: 201
 heading: US-based Pakistani kills wife in Arlington
 language: en
 publisher: The News
@@ -8095,7 +8095,7 @@ url: https://www.thenews.com.pk/latest/114329-US-based-Pakistani-kills-wife-in-A
 authors:
 - Alam Zeb Safi
 date: May 2, 2016
-globalID: '1'
+globalID: 202
 heading: KP win Pakistan Cup
 language: en
 publisher: The News
@@ -8186,7 +8186,7 @@ url: https://www.thenews.com.pk/latest/116902-KP-win-Pakistan-Cup
 authors:
 - Murtaza Ali Shah
 date: May 7, 2016
-globalID: '1'
+globalID: 203
 heading: "Pakistani bus driver\u2019s son Sadiq Khan becomes London Mayor"
 language: en
 publisher: The News
@@ -8271,7 +8271,7 @@ url: https://www.thenews.com.pk/latest/117943-Pakistani-bus-drivers-son-Sadiq-Kh
 authors:
 - M Waqar Bhatti
 date: May 22, 2016
-globalID: '1'
+globalID: 204
 heading: Cancer on the rise among children in underprivileged areas of Pakistan
 language: en
 publisher: The News
@@ -8354,7 +8354,7 @@ url: https://www.thenews.com.pk/latest/121860-Cancer-on-the-rise-among-children-
 authors:
 - Wajid Ali Syed
 date: May 25, 2016
-globalID: '1'
+globalID: 205
 heading: "Bill tabled in US Senate to block $300 million aid to Pakistan  \_"
 language: en
 publisher: The News
@@ -8390,7 +8390,7 @@ url: https://www.thenews.com.pk/latest/122635-Bill-tabled-in-US-Senate-to-block-
 authors:
 - Raja Zahid
 date: May 26, 2016
-globalID: '1'
+globalID: 206
 heading: Pakistani traders visit Houston
 language: en
 publisher: The News
@@ -8432,7 +8432,7 @@ url: https://www.thenews.com.pk/latest/122966-Pakistani-traders-visit-Houston
 authors:
 - Raja Zahid
 date: May 26, 2016
-globalID: '1'
+globalID: 207
 heading: "Musharraf\u2019s APML holds workers convention in US"
 language: en
 publisher: The News
@@ -8465,7 +8465,7 @@ url: https://www.thenews.com.pk/latest/122967-Musharrafs-APML-holds-workers-conv
 authors:
 - Web  Desk & Murtaza Ali Shah
 date: June 9, 2016
-globalID: '1'
+globalID: 208
 heading: "London mayor Sadiq questions Imran\u2019s support for Zac Goldsmith"
 language: en
 publisher: The News
@@ -8593,7 +8593,7 @@ url: https://www.thenews.com.pk/latest/126577-Sadiq-Khan-disappointed-by-childho
 authors:
 - Web Desk
 date: August 27, 2018
-globalID: '1'
+globalID: 209
 heading: Aleem Khan announces to donate salary as minister to SKMCH
 language: en
 publisher: The News
@@ -8614,7 +8614,7 @@ url: https://www.thenews.com.pk/latest/360221-aleem-khan-announces-to-donate-sal
 authors:
 - Web  Desk
 date: August 27, 2018
-globalID: '1'
+globalID: 210
 heading: Shah Rukh Khan speaks out against gender wage disparity in Bollywood
 language: en
 publisher: The News
@@ -8640,7 +8640,7 @@ url: https://www.thenews.com.pk/latest/360222-shah-rukh-khan-speaks-out-against-
 authors:
 - APP
 date: August 27, 2018
-globalID: '1'
+globalID: 211
 heading: Senate passes National Disaster Management (Amendment) Act 2017
 language: en
 publisher: The News
@@ -8702,7 +8702,7 @@ url: https://www.thenews.com.pk/latest/360223-senate-passes-national-disaster-ma
 authors:
 - AFP
 date: August 27, 2018
-globalID: '1'
+globalID: 212
 heading: Russia says Afghanistan talks postponed
 language: en
 publisher: The News
@@ -8737,7 +8737,7 @@ url: https://www.thenews.com.pk/latest/360224-russia-says-afghanistan-talks-post
 authors:
 - APP
 date: August 27, 2018
-globalID: '1'
+globalID: 213
 heading: Senator Hidayat Ullah Khan joins PTI
 language: en
 publisher: The News
@@ -8758,7 +8758,7 @@ url: https://www.thenews.com.pk/latest/360225-senator-hidayat-ullah-khan-joins-p
 authors:
 - APP
 date: August 27, 2018
-globalID: '1'
+globalID: 214
 heading: "Who gave Shahid Afridi famous \u2018Boom Boom\u2019 title?"
 language: en
 publisher: The News
@@ -8792,7 +8792,7 @@ url: https://www.thenews.com.pk/latest/360226-who-gave-shahid-afridi-famous-boom
 authors:
 - APP
 date: August 27, 2018
-globalID: '1'
+globalID: 215
 heading: "Guest of Honour status for Pakistan at China\u2019s International Import\
   \ Expo"
 language: en
@@ -8850,7 +8850,7 @@ url: https://www.thenews.com.pk/latest/360227-guest-of-honour-status-for-pakista
 authors:
 - AFP
 date: August 27, 2018
-globalID: '1'
+globalID: 216
 heading: 'Millions risk malnutrition as CO2 levels climb: study'
 language: en
 publisher: The News
@@ -8906,7 +8906,7 @@ url: https://www.thenews.com.pk/latest/360228-millions-risk-malnutrition-as-co2-
 authors:
 - AFP
 date: August 27, 2018
-globalID: '1'
+globalID: 217
 heading: Afghanistan win 1st ODI against Ireland by 29 runs
 language: en
 publisher: The News
@@ -8927,7 +8927,7 @@ url: https://www.thenews.com.pk/latest/360229-afghanistan-win-1st-odi-against-ir
 authors:
 - Web Desk
 date: August 27, 2018
-globalID: '1'
+globalID: 218
 heading: Railways officer reluctant to work under Sheikh Rasheed sacked
 language: en
 publisher: The News
@@ -8953,7 +8953,7 @@ url: https://www.thenews.com.pk/latest/360230-railways-officer-reluctant-to-work
 authors:
 - Web  Desk
 date: August 27, 2018
-globalID: '1'
+globalID: 219
 heading: "JUI-F chief meets Zardari, seeks PPP\u2019s support for presidential election"
 language: en
 publisher: The News
@@ -8980,7 +8980,7 @@ url: https://www.thenews.com.pk/latest/360231-jui-f-chief-meets-zardari-seeks-pp
 authors:
 - Web  Desk
 date: August 27, 2018
-globalID: '1'
+globalID: 220
 heading: Pakistan beat Thailand in Asian Games baseball
 language: en
 publisher: The News
@@ -9000,7 +9000,7 @@ url: https://www.thenews.com.pk/latest/360232-pakistan-beat-thailand-in-asian-ga
 authors:
 - AFP
 date: August 27, 2018
-globalID: '1'
+globalID: 221
 heading: Afghanistan win 1st ODI against Ireland by 29 runs
 language: en
 publisher: The News
@@ -9021,7 +9021,7 @@ url: https://www.thenews.com.pk/latest/360233-afghanistan-win-1st-odi-against-ir
 authors:
 - REUTERS
 date: August 28, 2018
-globalID: '1'
+globalID: 222
 heading: "Canada\xB4s Freeland to travel to Washington Tuesday for NAFTA"
 language: en
 publisher: The News
@@ -9042,7 +9042,7 @@ url: https://www.thenews.com.pk/latest/360234-canadas-freeland-to-travel-to-wash
 authors:
 - Abdul Hafeez
 date: May 20, 2015
-globalID: '1'
+globalID: 223
 heading: "Pakistan\u2019s first animated film \u20183 Bahadur\u2019 premieres in Karachi"
 language: en
 publisher: The News
@@ -9078,7 +9078,7 @@ url: https://www.thenews.com.pk/latest/4515-pakistans-first-animated-film-3-baha
 authors:
 - Abdul Hafeez
 date: May 25, 2015
-globalID: '1'
+globalID: 224
 heading: Kanupp defends its ambitions, rules out doomsday scenario
 language: en
 publisher: The News
@@ -9146,7 +9146,7 @@ url: https://www.thenews.com.pk/latest/4683-kanupp-defends-its-ambitions-rules-o
 authors:
 - GEO ENGLISH
 date: July 15, 2015
-globalID: '1'
+globalID: 225
 heading: 'Army Public School tragedy can never be forgotten: COAS'
 language: en
 publisher: The News
@@ -9169,7 +9169,7 @@ url: https://www.thenews.com.pk/latest/6285-army-public-school-tragedy-can-never
 authors:
 - Murtaza Ali Shah
 date: January 14, 2016
-globalID: '1'
+globalID: 226
 heading: "Pakistani appointed UK\u2019s Shadow Minister of State"
 language: en
 publisher: The News
@@ -9190,7 +9190,7 @@ url: https://www.thenews.com.pk/latest/90313-Pakistani-appointed-UKs-Shadow-Mini
 authors:
 - Wasif Shakil
 date: January 28, 2016
-globalID: '1'
+globalID: 227
 heading: Facebook likely be the publisher of everything, says Prof Craig Duff
 language: en
 publisher: The News
@@ -9286,7 +9286,7 @@ url: https://www.thenews.com.pk/latest/94429-Facebook-likely-to-become-publisher
 authors:
 - REUTERS
 date: February 10, 2016
-globalID: '1'
+globalID: 228
 heading: Trump, Sanders ride US anti-establishment tide to New Hampshire win
 language: en
 publisher: The News
@@ -9369,7 +9369,7 @@ url: https://www.thenews.com.pk/latest/97331-Trump-Sanders-ride-US-anti-establis
 ---
 authors: []
 date: August 12, 2018
-globalID: '1'
+globalID: 229
 heading: null
 language: en
 publisher: The News
@@ -9381,7 +9381,7 @@ url: https://www.thenews.com.pk/latest/category/Arts
 ---
 authors: []
 date: June 7, 2018
-globalID: '1'
+globalID: 230
 heading: null
 language: en
 publisher: The News
@@ -9393,7 +9393,7 @@ url: https://www.thenews.com.pk/latest/category/Books
 ---
 authors: []
 date: null
-globalID: '1'
+globalID: 231
 heading: null
 language: en
 publisher: The News
@@ -9405,7 +9405,7 @@ url: https://www.thenews.com.pk/latest/category/business
 ---
 authors: []
 date: null
-globalID: '1'
+globalID: 232
 heading: null
 language: en
 publisher: The News
@@ -9417,7 +9417,7 @@ url: https://www.thenews.com.pk/latest/category/entertainment
 ---
 authors: []
 date: July 30, 2018
-globalID: '1'
+globalID: 233
 heading: null
 language: en
 publisher: The News
@@ -9429,7 +9429,7 @@ url: https://www.thenews.com.pk/latest/category/Environment
 ---
 authors: []
 date: August 15, 2018
-globalID: '1'
+globalID: 234
 heading: null
 language: en
 publisher: The News
@@ -9441,7 +9441,7 @@ url: https://www.thenews.com.pk/latest/category/Fashion
 ---
 authors: []
 date: null
-globalID: '1'
+globalID: 235
 heading: null
 language: en
 publisher: The News
@@ -9453,7 +9453,7 @@ url: https://www.thenews.com.pk/latest/category/health
 ---
 authors: []
 date: July 11, 2018
-globalID: '1'
+globalID: 236
 heading: null
 language: en
 publisher: The News
@@ -9465,7 +9465,7 @@ url: https://www.thenews.com.pk/latest/category/Life-style
 ---
 authors: []
 date: May 4, 2018
-globalID: '1'
+globalID: 237
 heading: null
 language: en
 publisher: The News
@@ -9477,7 +9477,7 @@ url: https://www.thenews.com.pk/latest/category/Movies
 ---
 authors: []
 date: July 9, 2018
-globalID: '1'
+globalID: 238
 heading: null
 language: en
 publisher: The News
@@ -9489,7 +9489,7 @@ url: https://www.thenews.com.pk/latest/category/Music
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 239
 heading: null
 language: en
 publisher: The News
@@ -9501,7 +9501,7 @@ url: https://www.thenews.com.pk/latest/category/national
 ---
 authors: []
 date: November 23, 2017
-globalID: '1'
+globalID: 240
 heading: null
 language: en
 publisher: The News
@@ -9513,7 +9513,7 @@ url: https://www.thenews.com.pk/latest/category/opinion
 ---
 authors: []
 date: August 12, 2018
-globalID: '1'
+globalID: 241
 heading: null
 language: en
 publisher: The News
@@ -9525,7 +9525,7 @@ url: https://www.thenews.com.pk/latest/category/politics
 ---
 authors: []
 date: null
-globalID: '1'
+globalID: 242
 heading: null
 language: en
 publisher: The News
@@ -9537,7 +9537,7 @@ url: https://www.thenews.com.pk/latest/category/sci-tech
 ---
 authors: []
 date: February 15, 2017
-globalID: '1'
+globalID: 243
 heading: null
 language: en
 publisher: The News
@@ -9549,7 +9549,7 @@ url: https://www.thenews.com.pk/latest/category/sponsor
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 244
 heading: null
 language: en
 publisher: The News
@@ -9561,7 +9561,7 @@ url: https://www.thenews.com.pk/latest/category/sports
 ---
 authors: []
 date: June 22, 2018
-globalID: '1'
+globalID: 245
 heading: null
 language: en
 publisher: The News
@@ -9573,7 +9573,7 @@ url: https://www.thenews.com.pk/latest/category/videos
 ---
 authors: []
 date: July 29, 2018
-globalID: '1'
+globalID: 246
 heading: null
 language: en
 publisher: The News
@@ -9585,7 +9585,7 @@ url: https://www.thenews.com.pk/latest/category/weird
 ---
 authors: []
 date: February 13, 2018
-globalID: '1'
+globalID: 247
 heading: null
 language: en
 publisher: The News
@@ -9597,7 +9597,7 @@ url: https://www.thenews.com.pk/latest/category/Wildlife
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 248
 heading: null
 language: en
 publisher: The News
@@ -9609,7 +9609,7 @@ url: https://www.thenews.com.pk/latest/category/world
 ---
 authors: []
 date: null
-globalID: '1'
+globalID: 249
 heading: null
 language: en
 publisher: The News
@@ -9621,7 +9621,7 @@ url: https://www.thenews.com.pk/latest/category/national/2018-08-25
 ---
 authors: []
 date: null
-globalID: '1'
+globalID: 250
 heading: null
 language: en
 publisher: The News
@@ -9633,7 +9633,7 @@ url: https://www.thenews.com.pk/latest/category/national/2018-08-26
 ---
 authors: []
 date: null
-globalID: '1'
+globalID: 251
 heading: null
 language: en
 publisher: The News
@@ -9645,7 +9645,7 @@ url: https://www.thenews.com.pk/latest/category/world/2018-08-25
 ---
 authors: []
 date: null
-globalID: '1'
+globalID: 252
 heading: null
 language: en
 publisher: The News
@@ -9658,7 +9658,7 @@ url: https://www.thenews.com.pk/latest/category/world/2018-08-26
 authors:
 - Shahnawaz Akhter
 date: January 1, 2015
-globalID: '1'
+globalID: 253
 heading: Legal experts slam sales tax increase procedure
 language: en
 publisher: The News
@@ -9715,7 +9715,7 @@ url: https://www.thenews.com.pk/print/15847-legal-experts-slam-sales-tax-increas
 authors:
 - Mehtab Haider
 date: January 1, 2015
-globalID: '1'
+globalID: 254
 heading: Pakistan, Afghanistan to start talks on PTA today
 language: en
 publisher: The News
@@ -9771,7 +9771,7 @@ url: https://www.thenews.com.pk/print/15848-pakistan-afghanistan-to-start-talks-
 authors:
 - Mehtab Haider
 date: January 1, 2015
-globalID: '1'
+globalID: 255
 heading: Oil price plunge gives Pakistan breathing space
 language: en
 publisher: The News
@@ -9844,7 +9844,7 @@ url: https://www.thenews.com.pk/print/15853-oil-price-plunge-gives-pakistan-brea
 authors:
 - Javed Mirza
 date: January 1, 2015
-globalID: '1'
+globalID: 256
 heading: "Circular debt \u2013 a vicious cycle of unpaid bills"
 language: en
 publisher: The News
@@ -9929,7 +9929,7 @@ url: "https://www.thenews.com.pk/print/15854-circular-debt-\u2013-a-vicious-cycl
 authors:
 - M. Waqar Bhatti
 date: January 1, 2015
-globalID: '1'
+globalID: 257
 heading: "Promises didn\u2019t make Sindh any healthier in 2014"
 language: en
 publisher: The News
@@ -9989,7 +9989,7 @@ url: https://www.thenews.com.pk/print/15877-promises-didnt-make-sindh-any-health
 authors:
 - Jamal Khurshid
 date: January 1, 2015
-globalID: '1'
+globalID: 258
 heading: Establishment of military courts challenged
 language: en
 publisher: The News
@@ -10027,7 +10027,7 @@ url: https://www.thenews.com.pk/print/15887-establishment-of-military-courts-cha
 authors:
 - Jawwad Rizvi
 date: January 1, 2015
-globalID: '1'
+globalID: 259
 heading: Apna Rozgar Scheme gets good response
 language: en
 publisher: The News
@@ -10077,7 +10077,7 @@ url: https://www.thenews.com.pk/print/15891-apna-rozgar-scheme-gets-good-respons
 authors:
 - Ali Raza
 date: January 1, 2015
-globalID: '1'
+globalID: 260
 heading: Dismal performance of Punjab Food Authority
 language: en
 publisher: The News
@@ -10128,7 +10128,7 @@ url: https://www.thenews.com.pk/print/15894-dismal-performance-of-punjab-food-au
 authors:
 - Shahab Ansari
 date: January 1, 2015
-globalID: '1'
+globalID: 261
 heading: Faysal all praise for Geo
 language: en
 publisher: The News
@@ -10184,7 +10184,7 @@ url: https://www.thenews.com.pk/print/15898-faysal-all-praise-for-geo
 authors:
 - Faizan Bangash
 date: January 1, 2015
-globalID: '1'
+globalID: 262
 heading: NA-123 faces civic problems, upsurge in crime
 language: en
 publisher: The News
@@ -10368,7 +10368,7 @@ url: https://www.thenews.com.pk/print/15903-na-123-faces-civic-problems-upsurge-
 authors:
 - Shahid Aslam
 date: January 1, 2015
-globalID: '1'
+globalID: 263
 heading: "Land record couldn\u2019t be computerised in 2014"
 language: en
 publisher: The News
@@ -10446,7 +10446,7 @@ url: https://www.thenews.com.pk/print/15915-land-record-couldnt-be-computerised-
 authors:
 - Faisal Kamal Pasha
 date: January 1, 2015
-globalID: '1'
+globalID: 264
 heading: Increase in UF gas benchmark challenged in IHC
 language: en
 publisher: The News
@@ -10498,7 +10498,7 @@ url: https://www.thenews.com.pk/print/15916-increase-in-uf-gas-benchmark-challen
 authors:
 - Shahina Maqbool
 date: January 1, 2015
-globalID: '1'
+globalID: 265
 heading: 'New drug pricing policy: will it really purge the system of discretion?'
 language: en
 publisher: The News
@@ -10642,7 +10642,7 @@ url: https://www.thenews.com.pk/print/15919-new-drug-pricing-policy-will-it-real
 authors:
 - Khalid Iqbal
 date: January 1, 2015
-globalID: '1'
+globalID: 266
 heading: Prolonged power outages playing on nerves of Pindiites
 language: en
 publisher: The News
@@ -10679,7 +10679,7 @@ url: https://www.thenews.com.pk/print/15920-prolonged-power-outages-playing-on-n
 authors:
 - Obaid Abrar Khan
 date: January 1, 2015
-globalID: '1'
+globalID: 267
 heading: Family of three mentally disabled children needs help
 language: en
 publisher: The News
@@ -10715,7 +10715,7 @@ url: https://www.thenews.com.pk/print/15921-family-of-three-mentally-disabled-ch
 authors:
 - Saeed Ahmed
 date: January 1, 2015
-globalID: '1'
+globalID: 268
 heading: Hanif Abbasi claims project to be completed as per schedule
 language: en
 publisher: The News
@@ -10768,7 +10768,7 @@ url: https://www.thenews.com.pk/print/15929-hanif-abbasi-claims-project-to-be-co
 authors:
 - Mehtab Haider
 date: January 1, 2015
-globalID: '1'
+globalID: 269
 heading: Mutual legal assistance law to help block terror financing
 language: en
 publisher: The News
@@ -10830,7 +10830,7 @@ url: https://www.thenews.com.pk/print/15933-mutual-legal-assistance-law-to-help-
 authors:
 - Amir Mir
 date: January 1, 2015
-globalID: '1'
+globalID: 270
 heading: Hanged PAF man was close aide of TTP leader
 language: en
 publisher: The News
@@ -10934,7 +10934,7 @@ url: https://www.thenews.com.pk/print/15935-hanged-paf-man-was-close-aide-of-ttp
 authors:
 - Waseem Abbasi
 date: January 1, 2015
-globalID: '1'
+globalID: 271
 heading: 2014 darkest year in terms of polio eradication
 language: en
 publisher: The News
@@ -11043,7 +11043,7 @@ url: https://www.thenews.com.pk/print/15936-2014-darkest-year-in-terms-of-polio-
 authors:
 - Usman Manzoor
 date: January 1, 2015
-globalID: '1'
+globalID: 272
 heading: Senate panel directs ministry to re-open motorway exit to new airport
 language: en
 publisher: The News
@@ -11097,7 +11097,7 @@ url: https://www.thenews.com.pk/print/15937-senate-panel-directs-ministry-to-re-
 authors:
 - Tariq Butt
 date: January 1, 2015
-globalID: '1'
+globalID: 273
 heading: "Govt can\u2019t change Constitution sans consensus"
 language: en
 publisher: The News
@@ -11165,7 +11165,7 @@ url: https://www.thenews.com.pk/print/15938-govt-cant-change-constitution-sans-c
 authors:
 - Fakhar Durrani
 date: January 1, 2015
-globalID: '1'
+globalID: 274
 heading: Names of heads for state-run enterprises finalised
 language: en
 publisher: The News
@@ -11229,7 +11229,7 @@ url: https://www.thenews.com.pk/print/15939-names-of-heads-for-state-run-enterpr
 authors:
 - Tariq Butt
 date: January 1, 2015
-globalID: '1'
+globalID: 275
 heading: Political parties fear military courts may target them
 language: en
 publisher: The News
@@ -11314,7 +11314,7 @@ url: https://www.thenews.com.pk/print/15942-political-parties-fear-military-cour
 authors:
 - Muhammad Anis
 date: January 1, 2015
-globalID: '1'
+globalID: 276
 heading: Pak-Afghan MPs call for joint efforts to curb terrorism
 language: en
 publisher: The News
@@ -11369,7 +11369,7 @@ url: https://www.thenews.com.pk/print/15948-pak-afghan-mps-call-for-joint-effort
 authors:
 - Asim Yasin
 date: January 1, 2015
-globalID: '1'
+globalID: 277
 heading: Army Act, not Constitution, being amended to try terrorists
 language: en
 publisher: The News
@@ -11406,7 +11406,7 @@ url: https://www.thenews.com.pk/print/15949-army-act-not-constitution-being-amen
 authors:
 - Kamila Hyat
 date: January 1, 2015
-globalID: '1'
+globalID: 278
 heading: The power of the pulpit
 language: en
 publisher: The News
@@ -11507,7 +11507,7 @@ url: https://www.thenews.com.pk/print/15972-the-power-of-the-pulpit
 authors:
 - Hussain H Zaidi
 date: January 1, 2015
-globalID: '1'
+globalID: 279
 heading: State and religion
 language: en
 publisher: The News
@@ -11611,7 +11611,7 @@ url: https://www.thenews.com.pk/print/15973-state-and-religion
 authors:
 - Nadir Hassan
 date: January 1, 2015
-globalID: '1'
+globalID: 280
 heading: A year of collective insanity
 language: en
 publisher: The News
@@ -11683,7 +11683,7 @@ url: https://www.thenews.com.pk/print/15974-a-year-of-collective-insanity
 authors:
 - Taj M Khattak
 date: January 1, 2015
-globalID: '1'
+globalID: 281
 heading: A capital storm
 language: en
 publisher: The News
@@ -11792,7 +11792,7 @@ url: https://www.thenews.com.pk/print/15975-a-capital-storm
 authors:
 - Our Correspondent
 date: August 27, 2018
-globalID: '1'
+globalID: 282
 heading: "Two PPP politicians, PA\u2019s ex-deputy speaker join PTI"
 language: en
 publisher: The News
@@ -11822,7 +11822,7 @@ url: https://www.thenews.com.pk/print/360151-two-ppp-politicians-pa-s-ex-deputy-
 authors:
 - Our Correspondent
 date: August 27, 2018
-globalID: '1'
+globalID: 283
 heading: Ghani to keep a close eye on water board, SBCA, KDA, KMC
 language: en
 publisher: The News
@@ -11905,7 +11905,7 @@ url: https://www.thenews.com.pk/print/360152-ghani-to-keep-a-close-eye-on-water-
 authors:
 - Asim Yasin
 date: August 27, 2018
-globalID: '1'
+globalID: 284
 heading: Malik asks Imran to form body to probe RTS failure
 language: en
 publisher: The News
@@ -11969,7 +11969,7 @@ url: https://www.thenews.com.pk/print/360153-malik-asks-imran-to-form-body-to-pr
 authors:
 - Our Correspondent
 date: August 27, 2018
-globalID: '1'
+globalID: 285
 heading: Implementation of 5pc quota for minorities in PA secretariat jobs sought
 language: en
 publisher: The News
@@ -12011,7 +12011,7 @@ url: https://www.thenews.com.pk/print/360154-implementation-of-5pc-quota-for-min
 authors:
 - Sabir Shah
 date: August 27, 2018
-globalID: '1'
+globalID: 286
 heading: PTI regime to follow the Swedish governance model
 language: en
 publisher: The News
@@ -12144,7 +12144,7 @@ url: https://www.thenews.com.pk/print/360155-pti-regime-to-follow-the-swedish-go
 authors:
 - Salis bin Perwaiz
 date: August 27, 2018
-globalID: '1'
+globalID: 287
 heading: Four FIRs lodged over drug raid gone wrong
 language: en
 publisher: The News
@@ -12199,7 +12199,7 @@ url: https://www.thenews.com.pk/print/360156-four-firs-lodged-over-drug-raid-gon
 authors:
 - APP
 date: August 27, 2018
-globalID: '1'
+globalID: 288
 heading: 3 security men among 5 hurt in Turbat grenade blast
 language: en
 publisher: The News
@@ -12222,7 +12222,7 @@ url: https://www.thenews.com.pk/print/360157-3-security-men-among-5-hurt-in-turb
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 289
 heading: null
 language: en
 publisher: The News
@@ -12234,7 +12234,7 @@ url: https://www.thenews.com.pk/print/category/business
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 290
 heading: null
 language: en
 publisher: The News
@@ -12246,7 +12246,7 @@ url: https://www.thenews.com.pk/print/category/editorial
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 291
 heading: null
 language: en
 publisher: The News
@@ -12258,7 +12258,7 @@ url: https://www.thenews.com.pk/print/category/islamabad
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 292
 heading: null
 language: en
 publisher: The News
@@ -12270,7 +12270,7 @@ url: https://www.thenews.com.pk/print/category/karachi
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 293
 heading: null
 language: en
 publisher: The News
@@ -12282,7 +12282,7 @@ url: https://www.thenews.com.pk/print/category/lahore
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 294
 heading: null
 language: en
 publisher: The News
@@ -12294,7 +12294,7 @@ url: https://www.thenews.com.pk/print/category/national
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 295
 heading: null
 language: en
 publisher: The News
@@ -12306,7 +12306,7 @@ url: https://www.thenews.com.pk/print/category/newspost
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 296
 heading: null
 language: en
 publisher: The News
@@ -12318,7 +12318,7 @@ url: https://www.thenews.com.pk/print/category/opinion
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 297
 heading: null
 language: en
 publisher: The News
@@ -12330,7 +12330,7 @@ url: https://www.thenews.com.pk/print/category/peshawar
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 298
 heading: null
 language: en
 publisher: The News
@@ -12342,7 +12342,7 @@ url: https://www.thenews.com.pk/print/category/sports
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 299
 heading: null
 language: en
 publisher: The News
@@ -12354,7 +12354,7 @@ url: https://www.thenews.com.pk/print/category/top-story
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 300
 heading: null
 language: en
 publisher: The News
@@ -12366,7 +12366,7 @@ url: https://www.thenews.com.pk/print/category/world
 ---
 authors: []
 date: August 26, 2018
-globalID: '1'
+globalID: 301
 heading: null
 language: en
 publisher: The News

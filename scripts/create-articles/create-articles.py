@@ -38,8 +38,6 @@ folderPath = None
 outputTypeString = None
 inputSources = []
 
-yamlOutput = ""
-
 print ("Loading config file: " + configFilePath)
 # Extract config data from config file
 if os.path.exists(configFilePath):
@@ -78,6 +76,11 @@ File filtered on 3 parameters
 - must be larger than 3KB in size
 - cannot have amp as a folder in its path
 '''
+
+# Create and clean the output dataset.yaml file
+fullPath = os.path.join(outputFolderPath, "dataset.yaml")
+outputFile = open(fullPath, 'w+')
+outputFile.close()
 
 globalID = 1
 for inputSource in inputSources:
@@ -121,9 +124,21 @@ for inputSource in inputSources:
                 continue
             publisherClass = getattr(publisherModule, publisherName)()
 
-            article = publisherClass.createArticleObject(globalID = str(globalID), articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
+            article = publisherClass.createArticleObject(globalID = globalID, articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
 
-            yamlOutput += "---\n" + yaml.dump(article.__dict__, default_flow_style = False) + "\n"
+            yamlOutput = "---\n" + yaml.dump(article.__dict__, default_flow_style = False) + "\n"
+
+            globalID += 1 # TODO: Dont increment globalID if the current article is not going to be added to the dataset
+
+            # Add article to dataset
+            # TODO: Dont add article to dataset if an error occurred while parsing
+
+            # TODO: Suppress the console outputs when working on the full dataset
+
+            fullPath = os.path.join(outputFolderPath, "dataset.yaml")
+            outputFile = open(fullPath, 'a')
+            outputFile.write(yamlOutput)
+            outputFile.close()
 
             # # Save article to disk
             # if article is not None:
@@ -134,9 +149,5 @@ for inputSource in inputSources:
             # globalID += 1
             # print ("file saved. Time taken: " + str("%.2f" % timeTaken))
 
-print ("Crearting dataset...")
-fullPath = os.path.join(outputFolderPath, "dataset.yaml")
-outputFile = open(fullPath, 'w+')
-outputFile.write(yamlOutput)
-outputFile.close()
+
 print ("Done")
