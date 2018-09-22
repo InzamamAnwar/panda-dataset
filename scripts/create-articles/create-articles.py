@@ -82,6 +82,8 @@ fullPath = os.path.join(outputFolderPath, "dataset.yaml")
 outputFile = open(fullPath, 'w+')
 outputFile.close()
 
+publisherCounts = {}
+
 startTime = time.time()
 
 globalID = 1
@@ -131,10 +133,20 @@ for inputSource in inputSources:
                 outputFile.write(yamlOutput)
                 outputFile.close()
 
-                 # Print update on every 1000th article, might be useful if scripts crashes for some reason
+                # Add publisher count
+                if publisherName in publisherCounts:
+                    publisherCounts[publisherName] += 1
+                else:
+                    publisherCounts[publisherName] = 0
+
+                 # Print update on every 1000th article, might be useful if scripts crashes for some reas
                 if globalID % 1000 == 0:
                     print ("articles created: " + str(globalID))
 
 endTime = time.time()
-print ("Time taken: " + str(endTime - startTime) + " for " + str(globalID) + " articles")
-print ("Done")
+print ("Time taken: " + str(endTime - startTime) + " for " + str(globalID) + " articles\n\n")
+print ("Summary: ")
+for publisher in publisherCounts:
+    print ("name: " + str(publisher) + ", count: " + str(publisherCounts[publisher]))
+
+print ("\nDone")
