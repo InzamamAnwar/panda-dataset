@@ -44,9 +44,7 @@ class TheNews(common.Publisher):
             Date string format for The News is Month Day, Year
             E.g. "February 10, 2016"
         """
-
-        # TODO: convert dateString to Date object, use date-time feature
-        return dateString
+        return dateconvert(dateString)
 
     def getArticleAuthors(self, filename, pageSoup):
         authors = set()

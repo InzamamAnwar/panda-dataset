@@ -111,12 +111,6 @@ for inputSource in inputSources:
         if os.path.exists(articleSourceFile):
             articleSourceCode = open(articleSourceFile,"r", encoding='utf8').read()
 
-            # articleName = articleDict["articleName"]
-            # articleUrl = articleDict["articleUrl"]
-            # publisherName = articleDict["publisher"]
-            # articleSourceCode = articleDict["sourceCode"]
-            # timeDownloaded = articleDict["timeDownloaded"] # currently not being used
-
             # Dynamically load the right publisher
             publisherModule = dynamicImport(publisherName)
             if publisherModule is None:
@@ -139,15 +133,5 @@ for inputSource in inputSources:
             outputFile = open(fullPath, 'a')
             outputFile.write(yamlOutput)
             outputFile.close()
-
-            # # Save article to disk
-            # if article is not None:
-            #     article.save(folderPath = outputFolderPath, filename = article.globalID, outputType = outputType)
-            #
-            # endTime = time.time()
-            # timeTaken = endTime - startTime
-            # globalID += 1
-            # print ("file saved. Time taken: " + str("%.2f" % timeTaken))
-
 
 print ("Done")
