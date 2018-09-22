@@ -155,22 +155,23 @@ class Publisher(ABC):
         # Create page soup
         pageSoup = soup(articleSourceCode, 'html.parser')
 
-        publisher = self.__parseElement("getPublisher", articleSourceFilename, pageSoup)
-        url = self.__parseElement("getArticleUrl", articleSourceFilename, pageSoup)
-        date = self.__parseElement("getArticleDate", articleSourceFilename, pageSoup)
-        text = self.__parseElement("getArticleText", articleSourceFilename, pageSoup)
-        language = self.__parseElement("getArticleLanguage", articleSourceFilename, pageSoup)
-        heading = self.__parseElement("getArticleHeading", articleSourceFilename, pageSoup)
-        summary = self.__parseElement("getArticleSummary", articleSourceFilename, pageSoup)
-        tags = self.__parseElement("getArticleTags", articleSourceFilename, pageSoup)
-        authors = self.__parseElement("getArticleAuthors", articleSourceFilename, pageSoup)
+        status = ""
+        publisher, status = self.__parseElement("getPublisher", articleSourceFilename, pageSoup, status)
+        url, status = self.__parseElement("getArticleUrl", articleSourceFilename, pageSoup, status)
+        date, status = self.__parseElement("getArticleDate", articleSourceFilename, pageSoup, status)
+        text, status = self.__parseElement("getArticleText", articleSourceFilename, pageSoup, status)
+        language, status = self.__parseElement("getArticleLanguage", articleSourceFilename, pageSoup, status)
+        heading, status = self.__parseElement("getArticleHeading", articleSourceFilename, pageSoup, status)
+        summary, status = self.__parseElement("getArticleSummary", articleSourceFilename, pageSoup, status)
+        tags, status = self.__parseElement("getArticleTags", articleSourceFilename, pageSoup, status)
+        authors, status = self.__parseElement("getArticleAuthors", articleSourceFilename, pageSoup, status)
 
         article = Article(globalID = globalID, publisher = publisher, url = url, date = date, text = text, \
                           language = language, heading = heading, summary = summary, \
                           tags = tags, authors = authors)
-        return article
+        return article, status
 
-    def __parseElement(self, elementName, articleSourceFilename, pageSoup):
+    def __parseElement(self, elementName, articleSourceFilename, pageSoup, status):
         # Call the derived methods to extract elements from the pageSoup
         # Enclose the logic in a try catch block and complain if the method fails
         response = None
@@ -180,26 +181,31 @@ class Publisher(ABC):
             # set date format
             if elementName is "getArticleDate":
                 if isinstance(response, datetime):
-                    return str('%02d' % response.day) + "-" + str('%02d' % response.month) + "-" + str(response.year)
+                    date = str('%02d' % response.day) + "-" + str('%02d' % response.month) + "-" + str(response.year)
+                    return date, status
 
             # Specific assertions
             if elementName is "getArticleUrl":
                 if response is None or not response.strip().startswith("http"):
-                    print ("Error: Url is not valid: " + str(response))
+                    status += "Error: Url is not valid: " + str(response) + "\n"
+
+            if elementName is "getArticleHeading":
+                if response is None or len(response.strip()) < 3:
+                    status += "Error: Article heading not captured properly: " + str(response) + "\n"
 
             if elementName is "getArticleText":
                 if response is None or len(response.strip()) < 10:
-                    print ("Error: Article text not captured properly: " + str(response))
+                    status += "Error: Article text not captured properly: " + str(response) + "\n"
 
             if elementName is "getArticleDate":
                 if not isinstance(response, datetime):
-                    print ("Error: Invalid time type: " + str(response))
+                    status += "Error: Invalid time type: " + str(response) + "\n"
 
 
         except:
             # print ("Error parsing " + elementName + "(...) of " + articleSourceFilename)
-            print ("Error parsing " + elementName)
-        return response
+            status += "Error parsing " + elementName + "\n"
+        return response, status
 
     @abstractmethod
     def getPublisher(self, articleSourceFilename, pageSoup):

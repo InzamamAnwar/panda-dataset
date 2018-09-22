@@ -118,8 +118,10 @@ for inputSource in inputSources:
                 continue
             publisherClass = getattr(publisherModule, publisherName)()
 
-            article = publisherClass.createArticleObject(globalID = globalID, articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
+            article, status = publisherClass.createArticleObject(globalID = globalID, articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
 
+            print (status)
+            
             yamlOutput = "---\n" + yaml.dump(article.__dict__, default_flow_style = False) + "\n"
 
             globalID += 1 # TODO: Dont increment globalID if the current article is not going to be added to the dataset
