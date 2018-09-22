@@ -82,6 +82,8 @@ fullPath = os.path.join(outputFolderPath, "dataset.yaml")
 outputFile = open(fullPath, 'w+')
 outputFile.close()
 
+startTime = time.time()
+
 globalID = 1
 for inputSource in inputSources:
 
@@ -103,10 +105,7 @@ for inputSource in inputSources:
         save article object in output folder in yaml/json format
     '''
 
-    # TODO: only get request for now, otherwise update config file to include post request and post data
     for articleSourceFile in articleSourceFiles:
-        print ("\nworking on: " + articleSourceFile)
-        startTime = time.time()
 
         if os.path.exists(articleSourceFile):
             articleSourceCode = open(articleSourceFile,"r", encoding='utf8').read()
@@ -120,20 +119,22 @@ for inputSource in inputSources:
 
             article, status = publisherClass.createArticleObject(globalID = globalID, articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
 
-            print (status)
-            
-            yamlOutput = "---\n" + yaml.dump(article.__dict__, default_flow_style = False) + "\n"
+            # Write file to dataset only if status == ""
+            if len(status) > 0:
+                print ("File: " + articleSourceFile)
+                print (status)
+            else:
+                yamlOutput = "---\n" + yaml.dump(article.__dict__, default_flow_style = False) + "\n"
+                globalID += 1
+                fullPath = os.path.join(outputFolderPath, "dataset.yaml")
+                outputFile = open(fullPath, 'a')
+                outputFile.write(yamlOutput)
+                outputFile.close()
 
-            globalID += 1 # TODO: Dont increment globalID if the current article is not going to be added to the dataset
+                 # Print update on every 1000th article, might be useful if scripts crashes for some reason
+                if globalID % 1000 == 0:
+                    print ("articles created: " + str(globalID))
 
-            # Add article to dataset
-            # TODO: Dont add article to dataset if an error occurred while parsing
-
-            # TODO: Suppress the console outputs when working on the full dataset
-
-            fullPath = os.path.join(outputFolderPath, "dataset.yaml")
-            outputFile = open(fullPath, 'a')
-            outputFile.write(yamlOutput)
-            outputFile.close()
-
+endTime = time.time()
+print ("Time taken: " + str(endTime - startTime) + " for " + str(globalID) + " articles")
 print ("Done")
