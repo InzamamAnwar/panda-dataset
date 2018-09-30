@@ -1,5 +1,4 @@
 outputFolderPath: E:\Python Projects\panda-dataset\artifacts\articles
-outputType: YAML
 inputSources:
   - publisher: DailyTimes
     folder: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes
@@ -13,3 +12,5 @@ inputSources:
     folder: E:\Python Projects\panda-dataset\artifacts\source-code\Geo
   - publisher: TheNews
     folder: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews
+chunkSize: 100
+threads: 5

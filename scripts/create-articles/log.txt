@@ -9,66 +9,60 @@ File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/Da
 Error parsing getArticleDate
 Error parsing getArticleAuthors
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/not_found.html
-Error parsing getArticleDate
-Error parsing getArticleTags
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/7/index.html
 Error parsing getArticleAuthors
 
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/index.html
 Error parsing getArticleAuthors
 
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/not_found.html
+Error parsing getArticleDate
+Error parsing getArticleTags
+Error parsing getArticleAuthors
+
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/18/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/9/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/11/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/7/index.html
 Error parsing getArticleAuthors
 
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/16/index.html
 Error parsing getArticleAuthors
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/6/index.html
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/9/index.html
 Error parsing getArticleAuthors
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/17/index.html
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/6/index.html
 Error parsing getArticleAuthors
 
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/10/index.html
 Error parsing getArticleAuthors
 
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/17/index.html
+Error parsing getArticleAuthors
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/11/index.html
+Error parsing getArticleAuthors
+
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/19/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/8/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/4/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/15/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/3/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/12/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/2/index.html
 Error parsing getArticleAuthors
 
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/13/index.html
 Error parsing getArticleAuthors
 
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/8/index.html
+Error parsing getArticleAuthors
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/15/index.html
+Error parsing getArticleAuthors
+
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/5/index.html
 Error parsing getArticleAuthors
 
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/4/index.html
+Error parsing getArticleAuthors
+
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/14/index.html
+Error parsing getArticleAuthors
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/3/index.html
 Error parsing getArticleAuthors
 
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/feed/index.html
@@ -78,52 +72,43 @@ Error parsing getArticleHeading
 Error parsing getArticleTags
 Error parsing getArticleAuthors
 
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/12/index.html
+Error parsing getArticleAuthors
+
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/index.html
 Error parsing getArticleAuthors
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/9/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/11/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/7/index.html
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/letters/page/2/index.html
 Error parsing getArticleAuthors
 
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/16/index.html
 Error parsing getArticleAuthors
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/6/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/10/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/8/index.html
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/9/index.html
 Error parsing getArticleAuthors
 
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/4/index.html
 Error parsing getArticleAuthors
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/15/index.html
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/11/index.html
 Error parsing getArticleAuthors
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/3/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/12/index.html
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/6/index.html
 Error parsing getArticleAuthors
 
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/2/index.html
 Error parsing getArticleAuthors
 
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/15/index.html
+Error parsing getArticleAuthors
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/7/index.html
+Error parsing getArticleAuthors
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/10/index.html
+Error parsing getArticleAuthors
+
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/13/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/5/index.html
-Error parsing getArticleAuthors
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/14/index.html
 Error parsing getArticleAuthors
 
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/feed/index.html
@@ -133,45 +118,25 @@ Error parsing getArticleHeading
 Error parsing getArticleTags
 Error parsing getArticleAuthors
 
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/3/index.html
+Error parsing getArticleAuthors
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/5/index.html
+Error parsing getArticleAuthors
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/8/index.html
+Error parsing getArticleAuthors
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/12/index.html
+Error parsing getArticleAuthors
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes/khyber-pakhtunkhwa/page/14/index.html
+Error parsing getArticleAuthors
+
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost/islamabad/index.html
 Error: Article text not captured properly: Related 
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Environment.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/videos.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Arts.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Fashion.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/world.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/sports.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Books.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/opinion.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
@@ -182,28 +147,13 @@ Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/politics.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Life-style.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Wildlife.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/entertainment.html
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/world/2018-08-26.html
 Error parsing getArticleDate
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/weird.html
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Fashion.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
@@ -214,34 +164,7 @@ Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/business.html
-Error parsing getArticleDate
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/national.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Movies.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Music.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/sponsor.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/world/2018-08-26.html
-Error parsing getArticleDate
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/politics.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
@@ -252,8 +175,49 @@ Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/world.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/business.html
+Error parsing getArticleDate
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Life-style.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/sports.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/national.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/national/2018-08-26.html
 Error parsing getArticleDate
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Wildlife.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Books.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Movies.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
@@ -264,12 +228,38 @@ Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/newspost.html
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/opinion.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/editorial.html
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/entertainment.html
+Error parsing getArticleDate
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Music.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/weird.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/Environment.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/sponsor.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/latest/category/videos.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
@@ -279,37 +269,22 @@ Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/sports.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/opinion.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/top-story.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/karachi.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
-File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/lahore.html
-Error parsing getArticleText
-Error parsing getArticleHeading
-Error parsing getArticleTags
-
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/islamabad.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/sports.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/business.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/opinion.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
@@ -324,12 +299,37 @@ Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/top-story.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
 File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/opinion/index.html
 Error parsing getArticleText
 Error parsing getArticleHeading
 Error parsing getArticleTags
 
-Time taken: 19.364646911621094 for 224 articles
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/karachi.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/lahore.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/newspost.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+File: /Users/aghumman/Desktop/newspapers/akhbar-dataset/artifacts/source-code/TheNews/print/category/editorial.html
+Error parsing getArticleText
+Error parsing getArticleHeading
+Error parsing getArticleTags
+
+Time taken: 18.236767053604126 for 224 articles
 
 
 Summary: 

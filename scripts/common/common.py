@@ -18,18 +18,42 @@ from datetime import datetime
 # TODO: check types when running init functions
 # This ensures that everyone ends up with the same common objects
 
+def dynamicImport(name):
+    try:
+        components = name.split('.')
+        mod = __import__(components[0])
+        for comp in components[1:]:
+            mod = getattr(mod, comp)
+        return mod
+    except:
+        return None
+
 class Article:
-    def __init__(self, globalID = None, publisher = None, url = None, date = None, text = None, language = None, heading = None, summary = None, tags = None, authors = None):
-        self.globalID = globalID
-        self.publisher = publisher
-        self.url = url
-        self.date = date
-        self.text = text
-        self.language = language
-        self.heading = heading
-        self.summary = summary
-        self.tags = tags
-        self.authors = authors
+    def __init__(self, articleDict = None, globalID = None, publisher = None, url = None, date = None, text = None, language = None, heading = None, summary = None, tags = None, authors = None):
+
+        if articleDict is not None:
+            # Load article elements
+            self.globalID = articleDict["globalID"]
+            self.publisher = articleDict["publisher"]
+            self.url = articleDict["url"]
+            self.date = articleDict["date"]
+            self.text = articleDict["text"]
+            self.language = articleDict["language"]
+            self.heading = articleDict["heading"]
+            self.summary = articleDict["summary"]
+            self.tags = articleDict["tags"]
+            self.authors = articleDict["authors"]
+        else:
+            self.globalID = globalID
+            self.publisher = publisher
+            self.url = url
+            self.date = date
+            self.text = text
+            self.language = language
+            self.heading = heading
+            self.summary = summary
+            self.tags = tags
+            self.authors = authors
 
     def __str__(self):
         response = "globalID: " + str(self.globalID) + "\n" + \
@@ -242,6 +266,29 @@ class Publisher(ABC):
     @abstractmethod
     def getArticleAuthors(self, articleSourceFilename, pageSoup):
         pass
+
+
+
+
+def loadConfiguration(configFilePath, params):
+    print ("Loading config file: " + configFilePath)
+    # Extract config data from config file
+    if os.path.exists(configFilePath):
+        config = yaml.load(open(configFilePath))
+
+        # Check for elements in the config file
+        for param in params:
+            if param not in config:
+                print("Error: " + param + " missing in config file")
+                exit
+
+        configurations = []
+        for param in params:
+            configurations.append(config[param])
+        return configurations
+    else:
+        print ("config file does not exist")
+        exit
 
 # TODO: Find a good home for this function
 def loadDataset(inputFolders):
