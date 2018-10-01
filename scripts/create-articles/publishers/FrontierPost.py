@@ -55,7 +55,9 @@ class FrontierPost(common.Publisher):
         return dateconvert(date)
 
     def getArticleAuthors(self, articleSourceFilename, pageSoup):
-        return pageSoup.findAll('div', {'class': 'author'})[0].a.text.strip()
+        author_name = []
+        author_name.append(pageSoup.findAll('div', {'class': 'author'})[0].a.text.strip())
+        return author_name
 
     def getPublisher(self, articleSourceFilename, pageSoup):
         return 'Frontier Post'
