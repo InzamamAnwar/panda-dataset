@@ -37,10 +37,20 @@ class Dawn(common.Publisher):
 
     def getArticleUrl(self, filename, pageSoup):
         """
+            ** this was the old approach **
             Filename is expected to be in the format "pagexxxxx.html"
+            id = filename.split('.html')[0].split('page')[1]
+            url = 'https://www.dawn.com/news/' + id
+
+            ** New approach **
+            Article URL is given in the and extracted with the following assumption
+            Assuming that with 'link' tag name there is two attributes with name "rel"
+            and "href" in <head>
+            <link rel="canonical" href="url of the article">
         """
-        id = filename.split('.html')[0].split('page')[1]
-        url = 'https://www.dawn.com/news/' + id
+        url_handle = pageSoup.findAll('link', {'rel': 'canonical'})
+        url_handle = url_handle[0]
+        url = url_handle['href']
         return url
 
     def getArticleLocalID(self, filename, pageSoup):
