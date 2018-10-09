@@ -42,7 +42,13 @@ def saveArticleToDataset(articleSourceFile):
         print ("Error: file does not exists: " + articleSourceFile)
         return
 
-    articleSourceCode = open(articleSourceFile,"r", encoding='utf8').read()
+    # Fix: 123
+    articleSourceCode = None
+    try:
+        articleSourceCode = open(articleSourceFile,"r", encoding='utf8').read()
+    except Exception as e:
+            print ("Error opening file: " + articleSourceFile + "\n" + str(e) + "\n\n")
+            return
 
     article, status = publisherClass.createArticleObject(globalID = None, \
                                                          articleSourceFilename = articleSourceFile, \
