@@ -22,6 +22,7 @@ class DailyTimes(common.Publisher):
         tag = []
         tag_handle = pageSoup.find(class_="entry-terms").text
         tag.append(tag_handle)
+        return tag
 
     def getArticleSummary(self, articleSourceFilename, pageSoup):
         return ''
@@ -32,7 +33,7 @@ class DailyTimes(common.Publisher):
         tags = text_handle[0].findAll()
         for tag in tags:
             # Up to h5 is not necessary, however for safe side it is being used
-            if tag.name in ['p', 'li', 'h2', 'h3', 'h4', 'h5', 'br']:
+            if tag.name in ['p', 'li', 'h2', 'h3', 'h4', 'h5', 'br', 'div']:
                 # Here we remove all the non-ASCII characters from the string
                 text += re.sub(r'[^\x00-\x7F]+', ' ', tag.text)
                 text += ' '
@@ -45,10 +46,20 @@ class DailyTimes(common.Publisher):
         """
             Assumption for extracting Author name
             < a href="SOME LINK" title="More Articles by staff Report" class="author-name">AUTHOR NAME </a>
+
+            In some cases the author name is present in the first found class of "author-name" so we extract class
+            with same name "author-name" using previous handle with "findNext" method. This is implemented in else
+            statement. If statement checks whether the author name is present in the first class or not
         """
         author_name = []
-        author_name.append(pageSoup.find(class_='author-name').text)
-        return author_name
+        author_name_handle = pageSoup.find(class_='author-name')
+        if author_name_handle.text != '':
+            author_name.append(author_name_handle.text)
+            return author_name
+        else:
+            author_name_handle = author_name_handle.findNext(class_='author-name')
+            author_name.append(author_name_handle.text)
+            return author_name
 
     def getArticleHeading(self, articleSourceFilename, pageSoup):
         """

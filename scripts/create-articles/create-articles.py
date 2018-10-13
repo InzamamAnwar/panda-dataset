@@ -13,16 +13,10 @@ import yaml
 import glob
 import time
 import pdb
+from multiprocessing.dummy import Pool as ThreadPool
+import threading
 
-def dynamicImport(name):
-    try:
-        components = name.split('.')
-        mod = __import__(components[0])
-        for comp in components[1:]:
-            mod = getattr(mod, comp)
-        return mod
-    except:
-        return None
+startTime = time.time()
 
 if len(sys.argv) is 1:
     print ("Error: Please specify the config file path")
@@ -32,42 +26,66 @@ if len(sys.argv) is 1:
 configFilePath = sys.argv[1]
 # configFilePath = "C:\\Users\\drzah\\Desktop\\newspaper\\newspaper-project\\configurations\\create-articles.yaml"
 
-
-publisher = None
-folderPath = None
-outputTypeString = None
-inputSources = []
-
-print ("Loading config file: " + configFilePath)
-# Extract config data from config file
-if os.path.exists(configFilePath):
-    config = yaml.load(open(configFilePath))
-
-    params = ["outputFolderPath", "outputType", "inputSources"]
-    # Check for elements in the config file
-    for param in params:
-        if param not in config:
-            print("Error: " + param + " missing in config file")
-            exit
-
-    outputFolderPath = config["outputFolderPath"]
-    outputTypeString = config["outputType"]
-    inputSources = config["inputSources"]
-
-else:
-    print ("config file does not exist")
-    exit
+# Load Configuration data
+outputFolderPath, inputSources, chunkSize, threads = common.loadConfiguration(configFilePath, ["outputFolderPath", "inputSources", "chunkSize", "threads"])
 
 # Create folder if not exists
 if not os.path.exists(outputFolderPath):
     os.makedirs(outputFolderPath)
 
-# Set output type
-outputType = None
-if outputTypeString.lower() == "yaml":
-    outputType = common.OutputType.YAML
-elif outputTypeString.lower() == "json":
-    outputType = common.OutputType.JSON
+def saveArticleToDataset(articleSourceFile):
+    global fileID
+    global globalID
+    global datasetForCurrentFeature
+
+    if not os.path.exists(articleSourceFile):
+        print ("Error: file does not exists: " + articleSourceFile)
+        return
+
+    # Fix: 123
+    articleSourceCode = None
+    try:
+        articleSourceCode = open(articleSourceFile,"r", encoding='utf8').read()
+    except Exception as e:
+            print ("Error opening file: " + articleSourceFile + "\n" + str(e) + "\n\n")
+            return
+
+    article, status = publisherClass.createArticleObject(globalID = None, \
+                                                         articleSourceFilename = articleSourceFile, \
+                                                         articleSourceCode = articleSourceCode)
+
+    # Write file to dataset only if status == ""
+    if len(status) > 0:
+        print ("File: " + articleSourceFile)
+        print (status)
+        return
+
+
+    lock.acquire()
+    # setting the globalID here instead of article constructor to enable multiple thread create articles
+    # without worrying about unique globalIDs
+    article.globalID = globalID
+    yamlOutput = "---\n" + yaml.dump(article.__dict__, default_flow_style = False) + "\n"
+    datasetForCurrentFeature.append(yamlOutput)
+    globalID += 1
+
+    # Add publisher count
+    if publisherName in publisherCounts:
+        publisherCounts[publisherName] += 1
+    else:
+        publisherCounts[publisherName] = 0
+    # Print update on every 1000th article, might be useful if scripts crashes for some reason
+    if globalID % chunkSize == 0:
+        fullPath = os.path.join(outputFolderPath, "dataset-" + str(fileID) + ".yaml")
+        outputFile = open(fullPath, 'w+')
+        outputText = "\n".join(datasetForCurrentFeature)
+        outputFile.write(outputText)
+        outputFile.close()
+        fileID += 1
+        # Clear the current feature buffer
+        datasetForCurrentFeature = []
+
+    lock.release()
 
 # Get a list of article files
 '''
@@ -77,12 +95,15 @@ File filtered on 3 parameters
 - cannot have amp as a folder in its path
 '''
 
-# Create and clean the output dataset.yaml file
-fullPath = os.path.join(outputFolderPath, "dataset.yaml")
-outputFile = open(fullPath, 'w+')
-outputFile.close()
-
+publisherCounts = {}
+fileID = 1
 globalID = 1
+
+# Create a lock
+lock = threading.Lock()
+
+datasetForCurrentFeature = []
+
 for inputSource in inputSources:
 
     publisherName = inputSource['publisher']
@@ -93,6 +114,14 @@ for inputSource in inputSources:
         if "/amp/" not in filename and "\\amp\\" not in filename:
             if os.path.getsize(filename) > 3 * 1024:
                 articleSourceFiles.append(filename)
+
+    # Dynamically load the right publisher
+    publisherModule = common.dynamicImport(publisherName)
+    if publisherModule is None:
+        print ("Error: Publisher class '" + publisherName + "' not found" )
+        continue
+    publisherClass = getattr(publisherModule, publisherName)()
+
     '''
     Logic:
     For each file:
@@ -103,51 +132,28 @@ for inputSource in inputSources:
         save article object in output folder in yaml/json format
     '''
 
-    # TODO: only get request for now, otherwise update config file to include post request and post data
-    for articleSourceFile in articleSourceFiles:
-        print ("\nworking on: " + articleSourceFile)
-        startTime = time.time()
+    # for articleSourceFile in articleSourceFiles:
+    #     saveArticleToDataset(articleSourceFile)
 
-        if os.path.exists(articleSourceFile):
-            articleSourceCode = open(articleSourceFile,"r", encoding='utf8').read()
+    # Make the Pool of workers
+    pool = ThreadPool(threads)
+    # Extract Feature for given article
+    featureForDataset = pool.map(saveArticleToDataset, articleSourceFiles)
+    # Close the pool and wait for the work to finish
+    pool.close()
+    pool.join()
 
-            # articleName = articleDict["articleName"]
-            # articleUrl = articleDict["articleUrl"]
-            # publisherName = articleDict["publisher"]
-            # articleSourceCode = articleDict["sourceCode"]
-            # timeDownloaded = articleDict["timeDownloaded"] # currently not being used
+# Add left over articles to a new dataset file
+if len(datasetForCurrentFeature) > 0:
+    fullPath = os.path.join(outputFolderPath, "dataset-" + str(fileID) + ".yaml")
+    outputFile = open(fullPath, 'w+')
+    outputFile.write("\n".join(datasetForCurrentFeature))
+    outputFile.close()
 
-            # Dynamically load the right publisher
-            publisherModule = dynamicImport(publisherName)
-            if publisherModule is None:
-                print ("Error: Publisher class '" + publisherName + "' not found" )
-                continue
-            publisherClass = getattr(publisherModule, publisherName)()
+endTime = time.time()
+print ("Time taken: " + str(endTime - startTime) + " for " + str(globalID) + " articles\n\n")
+print ("Summary: ")
+for publisher in publisherCounts:
+    print ("name: " + str(publisher) + ", count: " + str(publisherCounts[publisher]))
 
-            article = publisherClass.createArticleObject(globalID = globalID, articleSourceFilename = articleSourceFile, articleSourceCode = articleSourceCode)
-
-            yamlOutput = "---\n" + yaml.dump(article.__dict__, default_flow_style = False) + "\n"
-
-            globalID += 1 # TODO: Dont increment globalID if the current article is not going to be added to the dataset
-
-            # Add article to dataset
-            # TODO: Dont add article to dataset if an error occurred while parsing
-
-            # TODO: Suppress the console outputs when working on the full dataset
-
-            fullPath = os.path.join(outputFolderPath, "dataset.yaml")
-            outputFile = open(fullPath, 'a')
-            outputFile.write(yamlOutput)
-            outputFile.close()
-
-            # # Save article to disk
-            # if article is not None:
-            #     article.save(folderPath = outputFolderPath, filename = article.globalID, outputType = outputType)
-            #
-            # endTime = time.time()
-            # timeTaken = endTime - startTime
-            # globalID += 1
-            # print ("file saved. Time taken: " + str("%.2f" % timeTaken))
-
-
-print ("Done")
+print ("\nDone")

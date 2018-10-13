@@ -37,7 +37,9 @@ class FridayTimes(common.Publisher):
             TFT Issue: 13 Sep 2018
             '
         """
-        return pageSoup.findAll('div', {'class': 'post_detail2'})[0].text.split('\n')[1]
+        author_name = []
+        author_name.append(pageSoup.findAll('div', {'class': 'post_detail2'})[0].text.split('\n')[1].strip())
+        return author_name
 
     def getArticleDate(self, articleSourceFilename, pageSoup):
         """

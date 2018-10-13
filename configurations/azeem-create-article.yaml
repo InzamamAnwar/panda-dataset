@@ -1,0 +1,16 @@
+outputFolderPath: /Users/aghumman/Desktop/projects/newspapers/akhbar-dataset/artifacts/articles/
+inputSources:
+  - publisher: DailyTimes
+    folder: /Users/aghumman/Desktop/projects/newspapers/akhbar-dataset/artifacts/source-code/DailyTimes
+  - publisher: Dawn
+    folder: /Users/aghumman/Desktop/projects/newspapers/akhbar-dataset/artifacts/source-code/Dawn
+  - publisher: FridayTimes
+    folder: /Users/aghumman/Desktop/projects/newspapers/akhbar-dataset/artifacts/source-code/FridayTimes
+  - publisher: FrontierPost
+    folder: /Users/aghumman/Desktop/projects/newspapers/akhbar-dataset/artifacts/source-code/FrontierPost
+  - publisher: Geo
+    folder: /Users/aghumman/Desktop/projects/newspapers/akhbar-dataset/artifacts/source-code/Geo
+  - publisher: TheNews
+    folder: /Users/aghumman/Desktop/projects/newspapers/akhbar-dataset/artifacts/source-code/TheNews
+chunkSize: 100
+threads: 5

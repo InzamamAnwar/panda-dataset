@@ -1,15 +1,16 @@
 outputFolderPath: E:\Python Projects\panda-dataset\artifacts\articles
-outputType: YAML
 inputSources:
   - publisher: DailyTimes
-    folder: E:\Python Projects\panda-dataset\artifacts\source-code\DailyTimes
+    folder: D:\Temp\dailytimes
   - publisher: Dawn
-    folder: E:\Python Projects\panda-dataset\artifacts\source-code\Dawn
+    folder: E:\DawnScrapping\Downloads
   - publisher: FridayTimes
-    folder: E:\Python Projects\panda-dataset\artifacts\source-code\FridayTimes
+    folder: D:\Temp\friday-times
   - publisher: FrontierPost
-    folder: E:\Python Projects\panda-dataset\artifacts\source-code\FrontierPost
+    folder: D:\Temp\frontier
   - publisher: Geo
-    folder: E:\Python Projects\panda-dataset\artifacts\source-code\Geo
+    folder: D:\Temp\Geo-Clean
   - publisher: TheNews
-    folder: E:\Python Projects\panda-dataset\artifacts\source-code\TheNews
+    folder: D:\Temp\thenews
+chunkSize: 10000
+threads: 1

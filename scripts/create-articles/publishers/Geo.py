@@ -66,7 +66,7 @@ class Geo(common.Publisher):
         tags = text_handle[0].findAll()
 
         for tag in tags:
-            if tag.name in ['p', 'li', 'h2', 'h3', 'h4', 'h5', 'br']:
+            if tag.name in ['p', 'h2', 'h3', 'h4', 'h5', 'br']:
                 text += re.sub(r'[^\x00-\x7F]+', ' ', tag.text)
                 text += ' '
         """
